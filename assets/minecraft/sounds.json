@@ -1,16 +1,16 @@
 {
-  "music_disc.surah_1__al_fathia0": {
+  "music_disc.surah_1fathia0": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_1__al_fathia0",
+        "name": "records/music_disc_surah_1fathia0",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_2__al_baqarah1": {
+  "music_disc.surah_2baqarah1": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_2__al_baqarah1",
+        "name": "records/music_disc_surah_2baqarah1",
         "stream": true
       }
     ]
@@ -23,42 +23,42 @@
       }
     ]
   },
-  "music_disc.surah_4__an_nisa3": {
+  "music_disc.surah_4nisa3": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_4__an_nisa3",
+        "name": "records/music_disc_surah_4nisa3",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_5__al_ma_idah4": {
+  "music_disc.surah_5ma_idah4": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_5__al_ma_idah4",
+        "name": "records/music_disc_surah_5ma_idah4",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_6__al_an_am5": {
+  "music_disc.surah_6an_am5": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_6__al_an_am5",
+        "name": "records/music_disc_surah_6an_am5",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_7__al_ar_af6": {
+  "music_disc.surah_7ar_af6": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_7__al_ar_af6",
+        "name": "records/music_disc_surah_7ar_af6",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_8__al_anfal7": {
+  "music_disc.surah_8anfal7": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_8__al_anfal7",
+        "name": "records/music_disc_surah_8anfal7",
         "stream": true
       }
     ]
@@ -95,10 +95,10 @@
       }
     ]
   },
-  "music_disc.surah_13__ar_ra_d12": {
+  "music_disc.surah_13ra_d12": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_13__ar_ra_d12",
+        "name": "records/music_disc_surah_13ra_d12",
         "stream": true
       }
     ]
@@ -111,34 +111,34 @@
       }
     ]
   },
-  "music_disc.surah_15__al_hijr14": {
+  "music_disc.surah_15hijr14": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_15__al_hijr14",
+        "name": "records/music_disc_surah_15hijr14",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_16__an_nahl15": {
+  "music_disc.surah_16nahl15": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_16__an_nahl15",
+        "name": "records/music_disc_surah_16nahl15",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_17__al_isra16": {
+  "music_disc.surah_17isra16": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_17__al_isra16",
+        "name": "records/music_disc_surah_17isra16",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_18__al_kahf17": {
+  "music_disc.surah_18kahf17": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_18__al_kahf17",
+        "name": "records/music_disc_surah_18kahf17",
         "stream": true
       }
     ]
@@ -159,82 +159,82 @@
       }
     ]
   },
-  "music_disc.surah_21__al_anbya20": {
+  "music_disc.surah_21anbya20": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_21__al_anbya20",
+        "name": "records/music_disc_surah_21anbya20",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_22__al_hajj21": {
+  "music_disc.surah_22hajj21": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_22__al_hajj21",
+        "name": "records/music_disc_surah_22hajj21",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_23__al_mu_minun22": {
+  "music_disc.surah_23mu_minun22": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_23__al_mu_minun22",
+        "name": "records/music_disc_surah_23mu_minun22",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_24__an_nur23": {
+  "music_disc.surah_24nur23": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_24__an_nur23",
+        "name": "records/music_disc_surah_24nur23",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_25__al_furqan24": {
+  "music_disc.surah_25furqan24": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_25__al_furqan24",
+        "name": "records/music_disc_surah_25furqan24",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_26__ash_shu_ara25": {
+  "music_disc.surah_26shu_ara25": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_26__ash_shu_ara25",
+        "name": "records/music_disc_surah_26shu_ara25",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_27__an_naml26": {
+  "music_disc.surah_27naml26": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_27__an_naml26",
+        "name": "records/music_disc_surah_27naml26",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_28__al_qasas27": {
+  "music_disc.surah_28qasas27": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_28__al_qasas27",
+        "name": "records/music_disc_surah_28qasas27",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_29__al__ankabut28": {
+  "music_disc.surah_29_ankabut28": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_29__al__ankabut28",
+        "name": "records/music_disc_surah_29_ankabut28",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_30__ar_rum29": {
+  "music_disc.surah_30rum29": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_30__ar_rum29",
+        "name": "records/music_disc_surah_30rum29",
         "stream": true
       }
     ]
@@ -255,10 +255,10 @@
       }
     ]
   },
-  "music_disc.surah_33__al_ahzab32": {
+  "music_disc.surah_33ahzab32": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_33__al_ahzab32",
+        "name": "records/music_disc_surah_33ahzab32",
         "stream": true
       }
     ]
@@ -303,18 +303,18 @@
       }
     ]
   },
-  "music_disc.surah_39__az_zumar38": {
+  "music_disc.surah_39zumar38": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_39__az_zumar38",
+        "name": "records/music_disc_surah_39zumar38",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_40__ghafir39": {
+  "music_disc.surah_40": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_40__ghafir39",
+        "name": "records/music_disc_surah_40",
         "stream": true
       }
     ]
@@ -327,18 +327,18 @@
       }
     ]
   },
-  "music_disc.surah_42__ash_shuraa41": {
+  "music_disc.surah_42shuraa41": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_42__ash_shuraa41",
+        "name": "records/music_disc_surah_42shuraa41",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_43__az_zuhkruf42": {
+  "music_disc.surah_43zuhkruf42": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_43__az_zuhkruf42",
+        "name": "records/music_disc_surah_43zuhkruf42",
         "stream": true
       }
     ]
@@ -351,18 +351,18 @@
       }
     ]
   },
-  "music_disc.surah_45__al_jathiyah44": {
+  "music_disc.surah_45jathiyah44": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_45__al_jathiyah44",
+        "name": "records/music_disc_surah_45jathiyah44",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_46__al_ahqaf45": {
+  "music_disc.surah_46ahqaf45": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_46__al_ahqaf45",
+        "name": "records/music_disc_surah_46ahqaf45",
         "stream": true
       }
     ]
@@ -375,18 +375,18 @@
       }
     ]
   },
-  "music_disc.surah_48__al_fath47": {
+  "music_disc.surah_48fath47": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_48__al_fath47",
+        "name": "records/music_disc_surah_48fath47",
         "stream": true
       }
     ]
   },
-  "music_disc.surah_49__al_hujurat48": {
+  "music_disc.surah_49hujurat48": {
     "sounds": [
       {
-        "name": "records/music_disc_surah_49__al_hujurat48",
+        "name": "records/music_disc_surah_49hujurat48",
         "stream": true
       }
     ]

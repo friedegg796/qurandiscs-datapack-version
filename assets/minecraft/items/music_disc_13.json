@@ -8,17 +8,17 @@
     },
     "cases": [
       {
-        "when": "surah_1__al_fathia0",
+        "when": "surah_1fathia0",
         "model": {
           "type": "model",
-          "model": "item/surah_1__al_fathia0"
+          "model": "item/surah_1fathia0"
         }
       },
       {
-        "when": "surah_2__al_baqarah1",
+        "when": "surah_2baqarah1",
         "model": {
           "type": "model",
-          "model": "item/surah_2__al_baqarah1"
+          "model": "item/surah_2baqarah1"
         }
       },
       {
@@ -29,38 +29,38 @@
         }
       },
       {
-        "when": "surah_4__an_nisa3",
+        "when": "surah_4nisa3",
         "model": {
           "type": "model",
-          "model": "item/surah_4__an_nisa3"
+          "model": "item/surah_4nisa3"
         }
       },
       {
-        "when": "surah_5__al_ma_idah4",
+        "when": "surah_5ma_idah4",
         "model": {
           "type": "model",
-          "model": "item/surah_5__al_ma_idah4"
+          "model": "item/surah_5ma_idah4"
         }
       },
       {
-        "when": "surah_6__al_an_am5",
+        "when": "surah_6an_am5",
         "model": {
           "type": "model",
-          "model": "item/surah_6__al_an_am5"
+          "model": "item/surah_6an_am5"
         }
       },
       {
-        "when": "surah_7__al_ar_af6",
+        "when": "surah_7ar_af6",
         "model": {
           "type": "model",
-          "model": "item/surah_7__al_ar_af6"
+          "model": "item/surah_7ar_af6"
         }
       },
       {
-        "when": "surah_8__al_anfal7",
+        "when": "surah_8anfal7",
         "model": {
           "type": "model",
-          "model": "item/surah_8__al_anfal7"
+          "model": "item/surah_8anfal7"
         }
       },
       {
@@ -92,10 +92,10 @@
         }
       },
       {
-        "when": "surah_13__ar_ra_d12",
+        "when": "surah_13ra_d12",
         "model": {
           "type": "model",
-          "model": "item/surah_13__ar_ra_d12"
+          "model": "item/surah_13ra_d12"
         }
       },
       {
@@ -106,31 +106,31 @@
         }
       },
       {
-        "when": "surah_15__al_hijr14",
+        "when": "surah_15hijr14",
         "model": {
           "type": "model",
-          "model": "item/surah_15__al_hijr14"
+          "model": "item/surah_15hijr14"
         }
       },
       {
-        "when": "surah_16__an_nahl15",
+        "when": "surah_16nahl15",
         "model": {
           "type": "model",
-          "model": "item/surah_16__an_nahl15"
+          "model": "item/surah_16nahl15"
         }
       },
       {
-        "when": "surah_17__al_isra16",
+        "when": "surah_17isra16",
         "model": {
           "type": "model",
-          "model": "item/surah_17__al_isra16"
+          "model": "item/surah_17isra16"
         }
       },
       {
-        "when": "surah_18__al_kahf17",
+        "when": "surah_18kahf17",
         "model": {
           "type": "model",
-          "model": "item/surah_18__al_kahf17"
+          "model": "item/surah_18kahf17"
         }
       },
       {
@@ -148,73 +148,73 @@
         }
       },
       {
-        "when": "surah_21__al_anbya20",
+        "when": "surah_21anbya20",
         "model": {
           "type": "model",
-          "model": "item/surah_21__al_anbya20"
+          "model": "item/surah_21anbya20"
         }
       },
       {
-        "when": "surah_22__al_hajj21",
+        "when": "surah_22hajj21",
         "model": {
           "type": "model",
-          "model": "item/surah_22__al_hajj21"
+          "model": "item/surah_22hajj21"
         }
       },
       {
-        "when": "surah_23__al_mu_minun22",
+        "when": "surah_23mu_minun22",
         "model": {
           "type": "model",
-          "model": "item/surah_23__al_mu_minun22"
+          "model": "item/surah_23mu_minun22"
         }
       },
       {
-        "when": "surah_24__an_nur23",
+        "when": "surah_24nur23",
         "model": {
           "type": "model",
-          "model": "item/surah_24__an_nur23"
+          "model": "item/surah_24nur23"
         }
       },
       {
-        "when": "surah_25__al_furqan24",
+        "when": "surah_25furqan24",
         "model": {
           "type": "model",
-          "model": "item/surah_25__al_furqan24"
+          "model": "item/surah_25furqan24"
         }
       },
       {
-        "when": "surah_26__ash_shu_ara25",
+        "when": "surah_26",
         "model": {
           "type": "model",
-          "model": "item/surah_26__ash_shu_ara25"
+          "model": "item/surah_26"
         }
       },
       {
-        "when": "surah_27__an_naml26",
+        "when": "surah_27",
         "model": {
           "type": "model",
-          "model": "item/surah_27__an_naml26"
+          "model": "item/surah_27"
         }
       },
       {
-        "when": "surah_28__al_qasas27",
+        "when": "surah_28qasas27",
         "model": {
           "type": "model",
-          "model": "item/surah_28__al_qasas27"
+          "model": "item/surah_28qasas27"
         }
       },
       {
-        "when": "surah_29__al__ankabut28",
+        "when": "surah_29_ankabut28",
         "model": {
           "type": "model",
-          "model": "item/surah_29__al__ankabut28"
+          "model": "item/surah_29_ankabut28"
         }
       },
       {
-        "when": "surah_30__ar_rum29",
+        "when": "surah_30rum29",
         "model": {
           "type": "model",
-          "model": "item/surah_30__ar_rum29"
+          "model": "item/surah_30rum29"
         }
       },
       {
@@ -232,10 +232,10 @@
         }
       },
       {
-        "when": "surah_33__al_ahzab32",
+        "when": "surah_33ahzab32",
         "model": {
           "type": "model",
-          "model": "item/surah_33__al_ahzab32"
+          "model": "item/surah_33ahzab32"
         }
       },
       {
@@ -274,17 +274,17 @@
         }
       },
       {
-        "when": "surah_39__az_zumar38",
+        "when": "surah_39zumar38",
         "model": {
           "type": "model",
-          "model": "item/surah_39__az_zumar38"
+          "model": "item/surah_39zumar38"
         }
       },
       {
-        "when": "surah_40__ghafir39",
+        "when": "surah_40",
         "model": {
           "type": "model",
-          "model": "item/surah_40__ghafir39"
+          "model": "item/surah_40"
         }
       },
       {
@@ -295,17 +295,17 @@
         }
       },
       {
-        "when": "surah_42__ash_shuraa41",
+        "when": "surah_42shuraa41",
         "model": {
           "type": "model",
-          "model": "item/surah_42__ash_shuraa41"
+          "model": "item/surah_42shuraa41"
         }
       },
       {
-        "when": "surah_43__az_zuhkruf42",
+        "when": "surah_43zuhkruf42",
         "model": {
           "type": "model",
-          "model": "item/surah_43__az_zuhkruf42"
+          "model": "item/surah_43zuhkruf42"
         }
       },
       {
@@ -316,17 +316,17 @@
         }
       },
       {
-        "when": "surah_45__al_jathiyah44",
+        "when": "surah_45jathiyah44",
         "model": {
           "type": "model",
-          "model": "item/surah_45__al_jathiyah44"
+          "model": "item/surah_45jathiyah44"
         }
       },
       {
-        "when": "surah_46__al_ahqaf45",
+        "when": "surah_46ahqaf45",
         "model": {
           "type": "model",
-          "model": "item/surah_46__al_ahqaf45"
+          "model": "item/surah_46ahqaf45"
         }
       },
       {
@@ -337,17 +337,17 @@
         }
       },
       {
-        "when": "surah_48__al_fath47",
+        "when": "surah_48fath47",
         "model": {
           "type": "model",
-          "model": "item/surah_48__al_fath47"
+          "model": "item/surah_48fath47"
         }
       },
       {
-        "when": "surah_49__al_hujurat48",
+        "when": "surah_49hujurat48",
         "model": {
           "type": "model",
-          "model": "item/surah_49__al_hujurat48"
+          "model": "item/surah_49hujurat48"
         }
       },
       {

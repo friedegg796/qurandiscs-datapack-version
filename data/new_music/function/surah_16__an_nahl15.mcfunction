@@ -1,2 +1,0 @@
-#give Surah 16, An-Nahl to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:surah_16__an_nahl15",minecraft:custom_model_data={strings:["surah_16__an_nahl15"]}]
