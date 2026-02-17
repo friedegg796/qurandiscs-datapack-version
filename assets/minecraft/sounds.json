@@ -1,16 +1,16 @@
 {
-  "music_disc.surah1": {
+  "music_disc.1": {
     "sounds": [
       {
-        "name": "records/music_disc_surah1",
+        "name": "records/1",
         "stream": true
       }
     ]
   },
-  "music_disc.surah2baqarah1": {
+  "music_disc.surah2": {
     "sounds": [
       {
-        "name": "records/2baqarah1",
+        "name": "records/2",
         "stream": true
       }
     ]
@@ -18,7 +18,7 @@
   "music_disc.surah3__ali_imran2": {
     "sounds": [
       {
-        "name": "records/3__ali_imran2",
+        "name": "records/3",
         "stream": true
       }
     ]
@@ -26,7 +26,7 @@
   "music_disc.surah4nisa3": {
     "sounds": [
       {
-        "name": "records/4nisa3",
+        "name": "records/4",
         "stream": true
       }
     ]
