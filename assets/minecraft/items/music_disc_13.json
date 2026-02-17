@@ -8,801 +8,801 @@
     },
     "cases": [
       {
-        "when": "surah_1fathia0",
+        "when": "1",
         "model": {
           "type": "model",
-          "model": "item/surah_1fathia0"
+          "model": "item/1"
         }
       },
       {
-        "when": "surah_2baqarah1",
+        "when": "surah2baqarah1",
         "model": {
           "type": "model",
-          "model": "item/surah_2baqarah1"
+          "model": "item/1"
         }
       },
       {
-        "when": "surah_3__ali_imran2",
+        "when": "surah3__ali_imran2",
         "model": {
           "type": "model",
-          "model": "item/surah_3__ali_imran2"
+          "model": "item/surah3__ali_imran2"
         }
       },
       {
-        "when": "surah_4nisa3",
+        "when": "surah4nisa3",
         "model": {
           "type": "model",
-          "model": "item/surah_4nisa3"
+          "model": "item/surah4nisa3"
         }
       },
       {
-        "when": "surah_5ma_idah4",
+        "when": "surah5ma_idah4",
         "model": {
           "type": "model",
-          "model": "item/surah_5ma_idah4"
+          "model": "item/surah5ma_idah4"
         }
       },
       {
-        "when": "surah_6an_am5",
+        "when": "surah6an_am5",
         "model": {
           "type": "model",
-          "model": "item/surah_6an_am5"
+          "model": "item/surah6an_am5"
         }
       },
       {
-        "when": "surah_7ar_af6",
+        "when": "surah7ar_af6",
         "model": {
           "type": "model",
-          "model": "item/surah_7ar_af6"
+          "model": "item/surah7ar_af6"
         }
       },
       {
-        "when": "surah_8anfal7",
+        "when": "surah8anfal7",
         "model": {
           "type": "model",
-          "model": "item/surah_8anfal7"
+          "model": "item/surah8anfal7"
         }
       },
       {
-        "when": "surah_9__at_tawbah8",
+        "when": "surah9__at_tawbah8",
         "model": {
           "type": "model",
-          "model": "item/surah_9__at_tawbah8"
+          "model": "item/surah9__at_tawbah8"
         }
       },
       {
-        "when": "surah_10__yunus9",
+        "when": "surah10__yunus9",
         "model": {
           "type": "model",
-          "model": "item/surah_10__yunus9"
+          "model": "item/surah10__yunus9"
         }
       },
       {
-        "when": "surah_11__hud10",
+        "when": "surah11__hud10",
         "model": {
           "type": "model",
-          "model": "item/surah_11__hud10"
+          "model": "item/surah11__hud10"
         }
       },
       {
-        "when": "surah_12__yusuf11",
+        "when": "surah12__yusuf11",
         "model": {
           "type": "model",
-          "model": "item/surah_12__yusuf11"
+          "model": "item/surah12__yusuf11"
         }
       },
       {
-        "when": "surah_13ra_d12",
+        "when": "surah13ra_d12",
         "model": {
           "type": "model",
-          "model": "item/surah_13ra_d12"
+          "model": "item/surah13ra_d12"
         }
       },
       {
-        "when": "surah_14__ibrahim13",
+        "when": "surah14__ibrahim13",
         "model": {
           "type": "model",
-          "model": "item/surah_14__ibrahim13"
+          "model": "item/surah14__ibrahim13"
         }
       },
       {
-        "when": "surah_15hijr14",
+        "when": "surah15hijr14",
         "model": {
           "type": "model",
-          "model": "item/surah_15hijr14"
+          "model": "item/surah15hijr14"
         }
       },
       {
-        "when": "surah_16nahl15",
+        "when": "surah16nahl15",
         "model": {
           "type": "model",
-          "model": "item/surah_16nahl15"
+          "model": "item/surah16nahl15"
         }
       },
       {
-        "when": "surah_17isra16",
+        "when": "surah17isra16",
         "model": {
           "type": "model",
-          "model": "item/surah_17isra16"
+          "model": "item/surah17isra16"
         }
       },
       {
-        "when": "surah_18kahf17",
+        "when": "surah18kahf17",
         "model": {
           "type": "model",
-          "model": "item/surah_18kahf17"
+          "model": "item/surah18kahf17"
         }
       },
       {
-        "when": "surah_19__maryam18",
+        "when": "surah19__maryam18",
         "model": {
           "type": "model",
-          "model": "item/surah_19__maryam18"
+          "model": "item/surah19__maryam18"
         }
       },
       {
-        "when": "surah_20__taha19",
+        "when": "surah20__taha19",
         "model": {
           "type": "model",
-          "model": "item/surah_20__taha19"
+          "model": "item/surah20__taha19"
         }
       },
       {
-        "when": "surah_21anbya20",
+        "when": "surah21anbya20",
         "model": {
           "type": "model",
-          "model": "item/surah_21anbya20"
+          "model": "item/surah21anbya20"
         }
       },
       {
-        "when": "surah_22hajj21",
+        "when": "surah22hajj21",
         "model": {
           "type": "model",
-          "model": "item/surah_22hajj21"
+          "model": "item/surah22hajj21"
         }
       },
       {
-        "when": "surah_23mu_minun22",
+        "when": "surah23mu_minun22",
         "model": {
           "type": "model",
-          "model": "item/surah_23mu_minun22"
+          "model": "item/surah23mu_minun22"
         }
       },
       {
-        "when": "surah_24nur23",
+        "when": "surah24nur23",
         "model": {
           "type": "model",
-          "model": "item/surah_24nur23"
+          "model": "item/surah24nur23"
         }
       },
       {
-        "when": "surah_25furqan24",
+        "when": "surah25furqan24",
         "model": {
           "type": "model",
-          "model": "item/surah_25furqan24"
+          "model": "item/surah25furqan24"
         }
       },
       {
-        "when": "surah_26",
+        "when": "surah26",
         "model": {
           "type": "model",
-          "model": "item/surah_26"
+          "model": "item/surah26"
         }
       },
       {
-        "when": "surah_27",
+        "when": "surah27",
         "model": {
           "type": "model",
-          "model": "item/surah_27"
+          "model": "item/surah27"
         }
       },
       {
-        "when": "surah_28qasas27",
+        "when": "surah28qasas27",
         "model": {
           "type": "model",
-          "model": "item/surah_28qasas27"
+          "model": "item/surah28qasas27"
         }
       },
       {
-        "when": "surah_29_ankabut28",
+        "when": "surah29_ankabut28",
         "model": {
           "type": "model",
-          "model": "item/surah_29_ankabut28"
+          "model": "item/surah29_ankabut28"
         }
       },
       {
-        "when": "surah_30rum29",
+        "when": "surah30rum29",
         "model": {
           "type": "model",
-          "model": "item/surah_30rum29"
+          "model": "item/surah30rum29"
         }
       },
       {
-        "when": "surah_31__luqman30",
+        "when": "surah31__luqman30",
         "model": {
           "type": "model",
-          "model": "item/surah_31__luqman30"
+          "model": "item/surah31__luqman30"
         }
       },
       {
-        "when": "surah_32__as_sajdah31",
+        "when": "surah32__as_sajdah31",
         "model": {
           "type": "model",
-          "model": "item/surah_32__as_sajdah31"
+          "model": "item/surah32__as_sajdah31"
         }
       },
       {
-        "when": "surah_33ahzab32",
+        "when": "surah33ahzab32",
         "model": {
           "type": "model",
-          "model": "item/surah_33ahzab32"
+          "model": "item/surah33ahzab32"
         }
       },
       {
-        "when": "surah_34__saba33",
+        "when": "surah34__saba33",
         "model": {
           "type": "model",
-          "model": "item/surah_34__saba33"
+          "model": "item/surah34__saba33"
         }
       },
       {
-        "when": "surah_35__fatir34",
+        "when": "surah35__fatir34",
         "model": {
           "type": "model",
-          "model": "item/surah_35__fatir34"
+          "model": "item/surah35__fatir34"
         }
       },
       {
-        "when": "surah_36__ya_sin35",
+        "when": "surah36__ya_sin35",
         "model": {
           "type": "model",
-          "model": "item/surah_36__ya_sin35"
+          "model": "item/surah36__ya_sin35"
         }
       },
       {
-        "when": "surah_37__as_saffat36",
+        "when": "surah37__as_saffat36",
         "model": {
           "type": "model",
-          "model": "item/surah_37__as_saffat36"
+          "model": "item/surah37__as_saffat36"
         }
       },
       {
-        "when": "surah_38__sad37",
+        "when": "surah38__sad37",
         "model": {
           "type": "model",
-          "model": "item/surah_38__sad37"
+          "model": "item/surah38__sad37"
         }
       },
       {
-        "when": "surah_39zumar38",
+        "when": "surah39zumar38",
         "model": {
           "type": "model",
-          "model": "item/surah_39zumar38"
+          "model": "item/surah39zumar38"
         }
       },
       {
-        "when": "surah_40",
+        "when": "surah40",
         "model": {
           "type": "model",
-          "model": "item/surah_40"
+          "model": "item/surah40"
         }
       },
       {
-        "when": "surah_41__fussilat40",
+        "when": "surah41__fussilat40",
         "model": {
           "type": "model",
-          "model": "item/surah_41__fussilat40"
+          "model": "item/surah41__fussilat40"
         }
       },
       {
-        "when": "surah_42shuraa41",
+        "when": "surah42shuraa41",
         "model": {
           "type": "model",
-          "model": "item/surah_42shuraa41"
+          "model": "item/surah42shuraa41"
         }
       },
       {
-        "when": "surah_43zuhkruf42",
+        "when": "surah43zuhkruf42",
         "model": {
           "type": "model",
-          "model": "item/surah_43zuhkruf42"
+          "model": "item/surah43zuhkruf42"
         }
       },
       {
-        "when": "surah_44__ad_dukhan43",
+        "when": "surah44__ad_dukhan43",
         "model": {
           "type": "model",
-          "model": "item/surah_44__ad_dukhan43"
+          "model": "item/surah44__ad_dukhan43"
         }
       },
       {
-        "when": "surah_45jathiyah44",
+        "when": "surah45jathiyah44",
         "model": {
           "type": "model",
-          "model": "item/surah_45jathiyah44"
+          "model": "item/surah45jathiyah44"
         }
       },
       {
-        "when": "surah_46ahqaf45",
+        "when": "surah46ahqaf45",
         "model": {
           "type": "model",
-          "model": "item/surah_46ahqaf45"
+          "model": "item/surah46ahqaf45"
         }
       },
       {
-        "when": "surah_47__muhammad46",
+        "when": "surah47__muhammad46",
         "model": {
           "type": "model",
-          "model": "item/surah_47__muhammad46"
+          "model": "item/surah47__muhammad46"
         }
       },
       {
-        "when": "surah_48fath47",
+        "when": "surah48fath47",
         "model": {
           "type": "model",
-          "model": "item/surah_48fath47"
+          "model": "item/surah48fath47"
         }
       },
       {
-        "when": "surah_49hujurat48",
+        "when": "surah49hujurat48",
         "model": {
           "type": "model",
-          "model": "item/surah_49hujurat48"
+          "model": "item/surah49hujurat48"
         }
       },
       {
-        "when": "surah_50__qaf49",
+        "when": "surah50__qaf49",
         "model": {
           "type": "model",
-          "model": "item/surah_50__qaf49"
+          "model": "item/surah50__qaf49"
         }
       },
       {
-        "when": "surah_51__adh_dhariyat50",
+        "when": "surah51__adh_dhariyat50",
         "model": {
           "type": "model",
-          "model": "item/surah_51__adh_dhariyat50"
+          "model": "item/surah51__adh_dhariyat50"
         }
       },
       {
-        "when": "surah_52__at_tur51",
+        "when": "surah52__at_tur51",
         "model": {
           "type": "model",
-          "model": "item/surah_52__at_tur51"
+          "model": "item/surah52__at_tur51"
         }
       },
       {
-        "when": "quran52",
+        "when": "surah52",
         "model": {
           "type": "model",
-          "model": "item/quran52"
+          "model": "item/surah52"
         }
       },
       {
-        "when": "quran53",
+        "when": "surah53",
         "model": {
           "type": "model",
-          "model": "item/quran53"
+          "model": "item/surah53"
         }
       },
       {
-        "when": "quran54",
+        "when": "surah54",
         "model": {
           "type": "model",
-          "model": "item/quran54"
+          "model": "item/surah54"
         }
       },
       {
-        "when": "quran55",
+        "when": "surah55",
         "model": {
           "type": "model",
-          "model": "item/quran55"
+          "model": "item/surah55"
         }
       },
       {
-        "when": "quran56",
+        "when": "surah56",
         "model": {
           "type": "model",
-          "model": "item/quran56"
+          "model": "item/surah56"
         }
       },
       {
-        "when": "quran57",
+        "when": "surah57",
         "model": {
           "type": "model",
-          "model": "item/quran57"
+          "model": "item/surah57"
         }
       },
       {
-        "when": "quran58",
+        "when": "surah58",
         "model": {
           "type": "model",
-          "model": "item/quran58"
+          "model": "item/surah58"
         }
       },
       {
-        "when": "quran59",
+        "when": "surah59",
         "model": {
           "type": "model",
-          "model": "item/quran59"
+          "model": "item/surah59"
         }
       },
       {
-        "when": "quran60",
+        "when": "surah60",
         "model": {
           "type": "model",
-          "model": "item/quran60"
+          "model": "item/surah60"
         }
       },
       {
-        "when": "quran61",
+        "when": "surah61",
         "model": {
           "type": "model",
-          "model": "item/quran61"
+          "model": "item/surah61"
         }
       },
       {
-        "when": "quran62",
+        "when": "surah62",
         "model": {
           "type": "model",
-          "model": "item/quran62"
+          "model": "item/surah62"
         }
       },
       {
-        "when": "quran63",
+        "when": "surah63",
         "model": {
           "type": "model",
-          "model": "item/quran63"
+          "model": "item/surah63"
         }
       },
       {
-        "when": "quran64",
+        "when": "surah64",
         "model": {
           "type": "model",
-          "model": "item/quran64"
+          "model": "item/surah64"
         }
       },
       {
-        "when": "quran65",
+        "when": "surah65",
         "model": {
           "type": "model",
-          "model": "item/quran65"
+          "model": "item/surah65"
         }
       },
       {
-        "when": "quran66",
+        "when": "surah66",
         "model": {
           "type": "model",
-          "model": "item/quran66"
+          "model": "item/surah66"
         }
       },
       {
-        "when": "quran67",
+        "when": "surah67",
         "model": {
           "type": "model",
-          "model": "item/quran67"
+          "model": "item/surah67"
         }
       },
       {
-        "when": "quran69",
+        "when": "surah69",
         "model": {
           "type": "model",
-          "model": "item/quran69"
+          "model": "item/surah69"
         }
       },
       {
-        "when": "quran70",
+        "when": "surah70",
         "model": {
           "type": "model",
-          "model": "item/quran70"
+          "model": "item/surah70"
         }
       },
       {
-        "when": "quran71",
+        "when": "surah71",
         "model": {
           "type": "model",
-          "model": "item/quran71"
+          "model": "item/surah71"
         }
       },
       {
-        "when": "quran72",
+        "when": "surah72",
         "model": {
           "type": "model",
-          "model": "item/quran72"
+          "model": "item/surah72"
         }
       },
       {
-        "when": "quran73",
+        "when": "surah73",
         "model": {
           "type": "model",
-          "model": "item/quran73"
+          "model": "item/surah73"
         }
       },
       {
-        "when": "quran74",
+        "when": "surah74",
         "model": {
           "type": "model",
-          "model": "item/quran74"
+          "model": "item/surah74"
         }
       },
       {
-        "when": "quran75",
+        "when": "surah75",
         "model": {
           "type": "model",
-          "model": "item/quran75"
+          "model": "item/surah75"
         }
       },
       {
-        "when": "quran76",
+        "when": "surah76",
         "model": {
           "type": "model",
-          "model": "item/quran76"
+          "model": "item/surah76"
         }
       },
       {
-        "when": "quran77",
+        "when": "surah77",
         "model": {
           "type": "model",
-          "model": "item/quran77"
+          "model": "item/surah77"
         }
       },
       {
-        "when": "quran78",
+        "when": "surah78",
         "model": {
           "type": "model",
-          "model": "item/quran78"
+          "model": "item/surah78"
         }
       },
       {
-        "when": "quran79",
+        "when": "surah79",
         "model": {
           "type": "model",
-          "model": "item/quran79"
+          "model": "item/surah79"
         }
       },
       {
-        "when": "quran80",
+        "when": "surah80",
         "model": {
           "type": "model",
-          "model": "item/quran80"
+          "model": "item/surah80"
         }
       },
       {
-        "when": "quran81",
+        "when": "surah81",
         "model": {
           "type": "model",
-          "model": "item/quran81"
+          "model": "item/surah81"
         }
       },
       {
-        "when": "quran82",
+        "when": "surah82",
         "model": {
           "type": "model",
-          "model": "item/quran82"
+          "model": "item/surah82"
         }
       },
       {
-        "when": "quran83",
+        "when": "surah83",
         "model": {
           "type": "model",
-          "model": "item/quran83"
+          "model": "item/surah83"
         }
       },
       {
-        "when": "quran84",
+        "when": "surah84",
         "model": {
           "type": "model",
-          "model": "item/quran84"
+          "model": "item/surah84"
         }
       },
       {
-        "when": "quran85",
+        "when": "surah85",
         "model": {
           "type": "model",
-          "model": "item/quran85"
+          "model": "item/surah85"
         }
       },
       {
-        "when": "quran86",
+        "when": "surah86",
         "model": {
           "type": "model",
-          "model": "item/quran86"
+          "model": "item/surah86"
         }
       },
       {
-        "when": "quran87",
+        "when": "surah87",
         "model": {
           "type": "model",
-          "model": "item/quran87"
+          "model": "item/surah87"
         }
       },
       {
-        "when": "quran88",
+        "when": "surah88",
         "model": {
           "type": "model",
-          "model": "item/quran88"
+          "model": "item/surah88"
         }
       },
       {
-        "when": "quran89",
+        "when": "surah89",
         "model": {
           "type": "model",
-          "model": "item/quran89"
+          "model": "item/surah89"
         }
       },
       {
-        "when": "quran90",
+        "when": "surah90",
         "model": {
           "type": "model",
-          "model": "item/quran90"
+          "model": "item/surah90"
         }
       },
       {
-        "when": "quran91",
+        "when": "surah91",
         "model": {
           "type": "model",
-          "model": "item/quran91"
+          "model": "item/surah91"
         }
       },
       {
-        "when": "quran92",
+        "when": "surah92",
         "model": {
           "type": "model",
-          "model": "item/quran92"
+          "model": "item/surah92"
         }
       },
       {
-        "when": "quran93",
+        "when": "surah93",
         "model": {
           "type": "model",
-          "model": "item/quran93"
+          "model": "item/surah93"
         }
       },
       {
-        "when": "quran94",
+        "when": "surah94",
         "model": {
           "type": "model",
-          "model": "item/quran94"
+          "model": "item/surah94"
         }
       },
       {
-        "when": "quran95",
+        "when": "surah95",
         "model": {
           "type": "model",
-          "model": "item/quran95"
+          "model": "item/surah95"
         }
       },
       {
-        "when": "quran96",
+        "when": "surah96",
         "model": {
           "type": "model",
-          "model": "item/quran96"
+          "model": "item/surah96"
         }
       },
       {
-        "when": "quran97",
+        "when": "surah97",
         "model": {
           "type": "model",
-          "model": "item/quran97"
+          "model": "item/surah97"
         }
       },
       {
-        "when": "quran98",
+        "when": "surah98",
         "model": {
           "type": "model",
-          "model": "item/quran98"
+          "model": "item/surah98"
         }
       },
       {
-        "when": "quran99",
+        "when": "surah99",
         "model": {
           "type": "model",
-          "model": "item/quran99"
+          "model": "item/surah99"
         }
       },
       {
-        "when": "quran100",
+        "when": "surah100",
         "model": {
           "type": "model",
-          "model": "item/quran100"
+          "model": "item/surah100"
         }
       },
       {
-        "when": "quran101",
+        "when": "surah101",
         "model": {
           "type": "model",
-          "model": "item/quran101"
+          "model": "item/surah101"
         }
       },
       {
-        "when": "quran102",
+        "when": "surah102",
         "model": {
           "type": "model",
-          "model": "item/quran102"
+          "model": "item/surah102"
         }
       },
       {
-        "when": "quran103",
+        "when": "surah103",
         "model": {
           "type": "model",
-          "model": "item/quran103"
+          "model": "item/surah103"
         }
       },
       {
-        "when": "quran104",
+        "when": "surah104",
         "model": {
           "type": "model",
-          "model": "item/quran104"
+          "model": "item/surah104"
         }
       },
       {
-        "when": "quran105",
+        "when": "surah105",
         "model": {
           "type": "model",
-          "model": "item/quran105"
+          "model": "item/surah105"
         }
       },
       {
-        "when": "quran106",
+        "when": "surah106",
         "model": {
           "type": "model",
-          "model": "item/quran106"
+          "model": "item/surah106"
         }
       },
       {
-        "when": "quran107",
+        "when": "surah107",
         "model": {
           "type": "model",
-          "model": "item/quran107"
+          "model": "item/surah107"
         }
       },
       {
-        "when": "quran108",
+        "when": "surah108",
         "model": {
           "type": "model",
-          "model": "item/quran108"
+          "model": "item/surah108"
         }
       },
       {
-        "when": "quran109",
+        "when": "surah109",
         "model": {
           "type": "model",
-          "model": "item/quran109"
+          "model": "item/surah109"
         }
       },
       {
-        "when": "quran110",
+        "when": "surah110",
         "model": {
           "type": "model",
-          "model": "item/quran110"
+          "model": "item/surah110"
         }
       },
       {
-        "when": "quran111",
+        "when": "surah111",
         "model": {
           "type": "model",
-          "model": "item/quran111"
+          "model": "item/surah111"
         }
       },
       {
-        "when": "quran112",
+        "when": "surah112",
         "model": {
           "type": "model",
-          "model": "item/quran112"
+          "model": "item/surah112"
         }
       },
       {
-        "when": "quran113",
+        "when": "surah113",
         "model": {
           "type": "model",
-          "model": "item/quran113"
+          "model": "item/surah113"
         }
       },
       {
-        "when": "quran114",
+        "when": "surah114",
         "model": {
           "type": "model",
-          "model": "item/quran114"
+          "model": "item/surah114"
         }
       }
     ]
