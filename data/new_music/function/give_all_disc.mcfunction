@@ -1,9 +1,9 @@
 #Give all music discs to player
 
 #give Surah 1, Al-Fathia to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:surah_1fathia0",minecraft:custom_model_data={strings:["surah_1fathia0"]}]
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:surah1",minecraft:custom_model_data={strings:["surah1"]}]
 #give Surah 11, Hud to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:surah_11__hud10",minecraft:custom_model_data={strings:["surah_11__hud10"]}]
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:surah11",minecraft:custom_model_data={strings:["surah_11"]}]
 #give Surah 12, Yusuf to player
 give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:surah_12__yusuf11",minecraft:custom_model_data={strings:["surah_12__yusuf11"]}]
 #give Surah 13, Ar-Ra'd to player
