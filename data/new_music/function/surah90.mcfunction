@@ -1,2 +1,2 @@
 #give Surah to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:surah90",minecraft:custom_model_data={strings:["surah90"]}]
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:s90",minecraft:custom_model_data={strings:["s90"]}]

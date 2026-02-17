@@ -87,7 +87,7 @@
                     "1"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:1"
+                "minecraft:jukebox_playable": "new_music:s1"
               }
             }
           ]
@@ -97,10 +97,10 @@
           "components": {
             "minecraft:custom_model_data": {
               "strings": [
-                "surah2"
+                "s2"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:surah2"
+            "minecraft:jukebox_playable": "new_music:s2"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -111,10 +111,10 @@
               "components": {
                 "minecraft:custom_model_data": {
                   "strings": [
-                    "surah2"
+                    "s2"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:2"
+                "minecraft:jukebox_playable": "new_music:s2"
               }
             }
           ]
@@ -124,10 +124,10 @@
           "components": {
             "minecraft:custom_model_data": {
               "strings": [
-                "surah3"
+                "s3"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:surah3"
+            "minecraft:jukebox_playable": "new_music:s3"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -138,10 +138,10 @@
               "components": {
                 "minecraft:custom_model_data": {
                   "strings": [
-                    "surah3"
+                    "s3"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:3"
+                "minecraft:jukebox_playable": "new_music:s3"
               }
             }
           ]
@@ -154,7 +154,7 @@
                 "4"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:surah4"
+            "minecraft:jukebox_playable": "new_music:s4"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -165,10 +165,10 @@
               "components": {
                 "minecraft:custom_model_data": {
                   "strings": [
-                    "surah4"
+                    "s4"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:4"
+                "minecraft:jukebox_playable": "new_music:s4"
               }
             }
           ]
@@ -178,10 +178,10 @@
           "components": {
             "minecraft:custom_model_data": {
               "strings": [
-                "5"
+                "s5"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:5"
+            "minecraft:jukebox_playable": "new_music:s5"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -192,10 +192,10 @@
               "components": {
                 "minecraft:custom_model_data": {
                   "strings": [
-                    "5ma_idah4"
+                    "s5"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:5"
+                "minecraft:jukebox_playable": "new_music:s5"
               }
             }
           ]
@@ -208,7 +208,7 @@
                 "6an_am5"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:6"
+            "minecraft:jukebox_playable": "new_music:s6"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -222,7 +222,7 @@
                     "6an_am5"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:6"
+                "minecraft:jukebox_playable": "new_music:s6"
               }
             }
           ]
@@ -232,10 +232,10 @@
           "components": {
             "minecraft:custom_model_data": {
               "strings": [
-                "surah7"
+                "s7"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:surah7"
+            "minecraft:jukebox_playable": "new_music:s7"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -246,10 +246,10 @@
               "components": {
                 "minecraft:custom_model_data": {
                   "strings": [
-                    "surah7"
+                    "s7"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:7"
+                "minecraft:jukebox_playable": "new_music:s7"
               }
             }
           ]
@@ -262,7 +262,7 @@
                 "8anfal7"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:8anfal7"
+            "minecraft:jukebox_playable": "new_music:s8"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -276,7 +276,7 @@
                     "8anfal7"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:8"
+                "minecraft:jukebox_playable": "new_music:s8"
               }
             }
           ]
@@ -303,7 +303,7 @@
                     "9"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:9"
+                "minecraft:jukebox_playable": "new_music:s9"
               }
             }
           ]
@@ -316,7 +316,7 @@
                 "10"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:10"
+            "minecraft:jukebox_playable": "new_music:s10"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -330,7 +330,7 @@
                     "10"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:10"
+                "minecraft:jukebox_playable": "new_music:s10"
               }
             }
           ]
@@ -357,7 +357,7 @@
                     "11"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:11"
+                "minecraft:jukebox_playable": "new_music:s11"
               }
             }
           ]
@@ -384,7 +384,7 @@
                     "12"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:12"
+                "minecraft:jukebox_playable": "new_music:s12"
               }
             }
           ]
@@ -411,7 +411,7 @@
                     "13"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:13"
+                "minecraft:jukebox_playable": "new_music:s13"
               }
             }
           ]
@@ -438,7 +438,7 @@
                     "14"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:14"
+                "minecraft:jukebox_playable": "new_music:s14"
               }
             }
           ]
@@ -465,7 +465,7 @@
                     "15hijr14"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:15"
+                "minecraft:jukebox_playable": "new_music:s15"
               }
             }
           ]
@@ -475,10 +475,10 @@
           "components": {
             "minecraft:custom_model_data": {
               "strings": [
-                "16nahl15"
+                "s16"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:16nahl15"
+            "minecraft:jukebox_playable": "new_music:s16"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -489,10 +489,10 @@
               "components": {
                 "minecraft:custom_model_data": {
                   "strings": [
-                    "16nahl15"
+                    "s16"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:16"
+                "minecraft:jukebox_playable": "new_music:s16"
               }
             }
           ]
@@ -502,10 +502,10 @@
           "components": {
             "minecraft:custom_model_data": {
               "strings": [
-                "17isra16"
+                "s17"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:17"
+            "minecraft:jukebox_playable": "new_music:s17"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -516,10 +516,10 @@
               "components": {
                 "minecraft:custom_model_data": {
                   "strings": [
-                    "17isra16"
+                    "s17"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:17"
+                "minecraft:jukebox_playable": "new_music:s17"
               }
             }
           ]
@@ -573,7 +573,7 @@
                     "19"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:19"
+                "minecraft:jukebox_playable": "new_music:s19"
               }
             }
           ]
@@ -586,7 +586,7 @@
                 "20"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:20"
+            "minecraft:jukebox_playable": "new_music:s20"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -600,7 +600,7 @@
                     "20"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:20"
+                "minecraft:jukebox_playable": "new_music:s20"
               }
             }
           ]

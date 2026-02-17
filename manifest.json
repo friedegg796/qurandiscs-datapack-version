@@ -144,7 +144,7 @@
       "title": "Surah 18, Al Kahf",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2869.342041,
-      "filePath": "assets/minecraft/sounds/records/s18kahf17.ogg",
+      "filePath": "assets/minecraft/sounds/records/s18.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -168,7 +168,7 @@
       "title": "Surah 21, Al-Anbya",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2204.997188,
-      "filePath": "assets/minecraft/sounds/records/s21anbya20.ogg",
+      "filePath": "assets/minecraft/sounds/records/s21.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -176,7 +176,7 @@
       "title": "Surah 22, Al-Hajj",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2533.668571,
-      "filePath": "assets/minecraft/sounds/records/s22hajj21.ogg",
+      "filePath": "assets/minecraft/sounds/records/s22.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -184,7 +184,7 @@
       "title": "Surah 23, Al-Mu'minun",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2128.457143,
-      "filePath": "assets/minecraft/sounds/records/s23mu_minun22.ogg",
+      "filePath": "assets/minecraft/sounds/records/s23.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -192,7 +192,7 @@
       "title": "Surah 24, An-Nur",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2679.196735,
-      "filePath": "assets/minecraft/sounds/records/s24nur23.ogg",
+      "filePath": "assets/minecraft/sounds/records/s24.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -208,7 +208,7 @@
       "title": "Surah 26, Ash-Shu'ara",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2977.201633,
-      "filePath": "assets/minecraft/sounds/records/s26shu_ara25.ogg",
+      "filePath": "assets/minecraft/sounds/records/s26.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -216,7 +216,7 @@
       "title": "Surah 27, An-Naml",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2561.38449,
-      "filePath": "assets/minecraft/sounds/records/s27naml26.ogg",
+      "filePath": "assets/minecraft/sounds/records/s27.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },

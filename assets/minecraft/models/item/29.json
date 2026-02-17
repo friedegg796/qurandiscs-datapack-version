@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/surah29_ankabut28"
+    "layer0": "item/s29_ankabut28"
   }
 }

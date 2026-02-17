@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/surah26shu_ara25"
+    "layer0": "item/s26shu_ara25"
   }
 }

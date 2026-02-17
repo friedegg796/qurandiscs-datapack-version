@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/surah47__muhammad46"
+    "layer0": "item/s47__muhammad46"
   }
 }

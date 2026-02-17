@@ -8,801 +8,801 @@
     },
     "cases": [
       {
-        "when": "1",
+        "when": "s1",
         "model": {
           "type": "model",
           "model": "item/1"
         }
       },
       {
-        "when": "surah2baqarah1",
+        "when": "s2baqarah1",
         "model": {
           "type": "model",
           "model": "item/1"
         }
       },
       {
-        "when": "surah3__ali_imran2",
+        "when": "s3__ali_imran2",
         "model": {
           "type": "model",
-          "model": "item/surah3__ali_imran2"
+          "model": "item/s3__ali_imran2"
         }
       },
       {
-        "when": "surah4nisa3",
+        "when": "s4nisa3",
         "model": {
           "type": "model",
-          "model": "item/surah4nisa3"
+          "model": "item/s4nisa3"
         }
       },
       {
-        "when": "surah5ma_idah4",
+        "when": "s5ma_idah4",
         "model": {
           "type": "model",
-          "model": "item/surah5ma_idah4"
+          "model": "item/s5ma_idah4"
         }
       },
       {
-        "when": "surah6an_am5",
+        "when": "s6an_am5",
         "model": {
           "type": "model",
-          "model": "item/surah6an_am5"
+          "model": "item/s6an_am5"
         }
       },
       {
-        "when": "surah7ar_af6",
+        "when": "s7ar_af6",
         "model": {
           "type": "model",
-          "model": "item/surah7ar_af6"
+          "model": "item/s7ar_af6"
         }
       },
       {
-        "when": "surah8anfal7",
+        "when": "s8anfal7",
         "model": {
           "type": "model",
-          "model": "item/surah8anfal7"
+          "model": "item/s8anfal7"
         }
       },
       {
-        "when": "surah9__at_tawbah8",
+        "when": "s9__at_tawbah8",
         "model": {
           "type": "model",
-          "model": "item/surah9__at_tawbah8"
+          "model": "item/s9__at_tawbah8"
         }
       },
       {
-        "when": "surah10__yunus9",
+        "when": "s10__yunus9",
         "model": {
           "type": "model",
-          "model": "item/surah10__yunus9"
+          "model": "item/s10__yunus9"
         }
       },
       {
-        "when": "surah11__hud10",
+        "when": "s11__hud10",
         "model": {
           "type": "model",
-          "model": "item/surah11__hud10"
+          "model": "item/s11__hud10"
         }
       },
       {
-        "when": "surah12__yusuf11",
+        "when": "s12__yusuf11",
         "model": {
           "type": "model",
-          "model": "item/surah12__yusuf11"
+          "model": "item/s12__yusuf11"
         }
       },
       {
-        "when": "surah13ra_d12",
+        "when": "s13ra_d12",
         "model": {
           "type": "model",
-          "model": "item/surah13ra_d12"
+          "model": "item/s13ra_d12"
         }
       },
       {
-        "when": "surah14__ibrahim13",
+        "when": "s14__ibrahim13",
         "model": {
           "type": "model",
-          "model": "item/surah14__ibrahim13"
+          "model": "item/s14__ibrahim13"
         }
       },
       {
-        "when": "surah15hijr14",
+        "when": "s15hijr14",
         "model": {
           "type": "model",
-          "model": "item/surah15hijr14"
+          "model": "item/s15hijr14"
         }
       },
       {
-        "when": "surah16nahl15",
+        "when": "s16nahl15",
         "model": {
           "type": "model",
-          "model": "item/surah16nahl15"
+          "model": "item/s16nahl15"
         }
       },
       {
-        "when": "surah17isra16",
+        "when": "s17isra16",
         "model": {
           "type": "model",
-          "model": "item/surah17isra16"
+          "model": "item/s17isra16"
         }
       },
       {
-        "when": "surah18kahf17",
+        "when": "s18kahf17",
         "model": {
           "type": "model",
-          "model": "item/surah18kahf17"
+          "model": "item/s18kahf17"
         }
       },
       {
-        "when": "surah19__maryam18",
+        "when": "s19__maryam18",
         "model": {
           "type": "model",
-          "model": "item/surah19__maryam18"
+          "model": "item/s19__maryam18"
         }
       },
       {
-        "when": "surah20__taha19",
+        "when": "s20__taha19",
         "model": {
           "type": "model",
-          "model": "item/surah20__taha19"
+          "model": "item/s20__taha19"
         }
       },
       {
-        "when": "surah21anbya20",
+        "when": "s21anbya20",
         "model": {
           "type": "model",
-          "model": "item/surah21anbya20"
+          "model": "item/s21anbya20"
         }
       },
       {
-        "when": "surah22hajj21",
+        "when": "s22hajj21",
         "model": {
           "type": "model",
-          "model": "item/surah22hajj21"
+          "model": "item/s22hajj21"
         }
       },
       {
-        "when": "surah23mu_minun22",
+        "when": "s23mu_minun22",
         "model": {
           "type": "model",
-          "model": "item/surah23mu_minun22"
+          "model": "item/s23mu_minun22"
         }
       },
       {
-        "when": "surah24nur23",
+        "when": "s24nur23",
         "model": {
           "type": "model",
-          "model": "item/surah24nur23"
+          "model": "item/s24nur23"
         }
       },
       {
-        "when": "surah25furqan24",
+        "when": "s25furqan24",
         "model": {
           "type": "model",
-          "model": "item/surah25furqan24"
+          "model": "item/s25furqan24"
         }
       },
       {
-        "when": "surah26",
+        "when": "s26",
         "model": {
           "type": "model",
-          "model": "item/surah26"
+          "model": "item/s26"
         }
       },
       {
-        "when": "surah27",
+        "when": "s27",
         "model": {
           "type": "model",
-          "model": "item/surah27"
+          "model": "item/s27"
         }
       },
       {
-        "when": "surah28qasas27",
+        "when": "s28qasas27",
         "model": {
           "type": "model",
-          "model": "item/surah28qasas27"
+          "model": "item/s28qasas27"
         }
       },
       {
-        "when": "surah29_ankabut28",
+        "when": "s29_ankabut28",
         "model": {
           "type": "model",
-          "model": "item/surah29_ankabut28"
+          "model": "item/s29_ankabut28"
         }
       },
       {
-        "when": "surah30rum29",
+        "when": "s30rum29",
         "model": {
           "type": "model",
-          "model": "item/surah30rum29"
+          "model": "item/s30rum29"
         }
       },
       {
-        "when": "surah31__luqman30",
+        "when": "s31__luqman30",
         "model": {
           "type": "model",
-          "model": "item/surah31__luqman30"
+          "model": "item/s31__luqman30"
         }
       },
       {
-        "when": "surah32__as_sajdah31",
+        "when": "s32__as_sajdah31",
         "model": {
           "type": "model",
-          "model": "item/surah32__as_sajdah31"
+          "model": "item/s32__as_sajdah31"
         }
       },
       {
-        "when": "surah33ahzab32",
+        "when": "s33ahzab32",
         "model": {
           "type": "model",
-          "model": "item/surah33ahzab32"
+          "model": "item/s33ahzab32"
         }
       },
       {
-        "when": "surah34__saba33",
+        "when": "s34__saba33",
         "model": {
           "type": "model",
-          "model": "item/surah34__saba33"
+          "model": "item/s34__saba33"
         }
       },
       {
-        "when": "surah35__fatir34",
+        "when": "s35__fatir34",
         "model": {
           "type": "model",
-          "model": "item/surah35__fatir34"
+          "model": "item/s35__fatir34"
         }
       },
       {
-        "when": "surah36__ya_sin35",
+        "when": "s36__ya_sin35",
         "model": {
           "type": "model",
-          "model": "item/surah36__ya_sin35"
+          "model": "item/s36__ya_sin35"
         }
       },
       {
-        "when": "surah37__as_saffat36",
+        "when": "s37__as_saffat36",
         "model": {
           "type": "model",
-          "model": "item/surah37__as_saffat36"
+          "model": "item/s37__as_saffat36"
         }
       },
       {
-        "when": "surah38__sad37",
+        "when": "s38__sad37",
         "model": {
           "type": "model",
-          "model": "item/surah38__sad37"
+          "model": "item/s38__sad37"
         }
       },
       {
-        "when": "surah39zumar38",
+        "when": "s39zumar38",
         "model": {
           "type": "model",
-          "model": "item/surah39zumar38"
+          "model": "item/s39zumar38"
         }
       },
       {
-        "when": "surah40",
+        "when": "s40",
         "model": {
           "type": "model",
-          "model": "item/surah40"
+          "model": "item/s40"
         }
       },
       {
-        "when": "surah41__fussilat40",
+        "when": "s41__fussilat40",
         "model": {
           "type": "model",
-          "model": "item/surah41__fussilat40"
+          "model": "item/s41__fussilat40"
         }
       },
       {
-        "when": "surah42shuraa41",
+        "when": "s42shuraa41",
         "model": {
           "type": "model",
-          "model": "item/surah42shuraa41"
+          "model": "item/s42shuraa41"
         }
       },
       {
-        "when": "surah43zuhkruf42",
+        "when": "s43zuhkruf42",
         "model": {
           "type": "model",
-          "model": "item/surah43zuhkruf42"
+          "model": "item/s43zuhkruf42"
         }
       },
       {
-        "when": "surah44__ad_dukhan43",
+        "when": "s44__ad_dukhan43",
         "model": {
           "type": "model",
-          "model": "item/surah44__ad_dukhan43"
+          "model": "item/s44__ad_dukhan43"
         }
       },
       {
-        "when": "surah45jathiyah44",
+        "when": "s45jathiyah44",
         "model": {
           "type": "model",
-          "model": "item/surah45jathiyah44"
+          "model": "item/s45jathiyah44"
         }
       },
       {
-        "when": "surah46ahqaf45",
+        "when": "s46ahqaf45",
         "model": {
           "type": "model",
-          "model": "item/surah46ahqaf45"
+          "model": "item/s46ahqaf45"
         }
       },
       {
-        "when": "surah47__muhammad46",
+        "when": "s47__muhammad46",
         "model": {
           "type": "model",
-          "model": "item/surah47__muhammad46"
+          "model": "item/s47__muhammad46"
         }
       },
       {
-        "when": "surah48fath47",
+        "when": "s48fath47",
         "model": {
           "type": "model",
-          "model": "item/surah48fath47"
+          "model": "item/s48fath47"
         }
       },
       {
-        "when": "surah49hujurat48",
+        "when": "s49hujurat48",
         "model": {
           "type": "model",
-          "model": "item/surah49hujurat48"
+          "model": "item/s49hujurat48"
         }
       },
       {
-        "when": "surah50__qaf49",
+        "when": "s50__qaf49",
         "model": {
           "type": "model",
-          "model": "item/surah50__qaf49"
+          "model": "item/s50__qaf49"
         }
       },
       {
-        "when": "surah51__adh_dhariyat50",
+        "when": "s51__adh_dhariyat50",
         "model": {
           "type": "model",
-          "model": "item/surah51__adh_dhariyat50"
+          "model": "item/s51__adh_dhariyat50"
         }
       },
       {
-        "when": "surah52__at_tur51",
+        "when": "s52__at_tur51",
         "model": {
           "type": "model",
-          "model": "item/surah52__at_tur51"
+          "model": "item/s52__at_tur51"
         }
       },
       {
-        "when": "surah52",
+        "when": "s52",
         "model": {
           "type": "model",
-          "model": "item/surah52"
+          "model": "item/s52"
         }
       },
       {
-        "when": "surah53",
+        "when": "s53",
         "model": {
           "type": "model",
-          "model": "item/surah53"
+          "model": "item/s53"
         }
       },
       {
-        "when": "surah54",
+        "when": "s54",
         "model": {
           "type": "model",
-          "model": "item/surah54"
+          "model": "item/s54"
         }
       },
       {
-        "when": "surah55",
+        "when": "s55",
         "model": {
           "type": "model",
-          "model": "item/surah55"
+          "model": "item/s55"
         }
       },
       {
-        "when": "surah56",
+        "when": "s56",
         "model": {
           "type": "model",
-          "model": "item/surah56"
+          "model": "item/s56"
         }
       },
       {
-        "when": "surah57",
+        "when": "s57",
         "model": {
           "type": "model",
-          "model": "item/surah57"
+          "model": "item/s57"
         }
       },
       {
-        "when": "surah58",
+        "when": "s58",
         "model": {
           "type": "model",
-          "model": "item/surah58"
+          "model": "item/s58"
         }
       },
       {
-        "when": "surah59",
+        "when": "s59",
         "model": {
           "type": "model",
-          "model": "item/surah59"
+          "model": "item/s59"
         }
       },
       {
-        "when": "surah60",
+        "when": "s60",
         "model": {
           "type": "model",
-          "model": "item/surah60"
+          "model": "item/s60"
         }
       },
       {
-        "when": "surah61",
+        "when": "s61",
         "model": {
           "type": "model",
-          "model": "item/surah61"
+          "model": "item/s61"
         }
       },
       {
-        "when": "surah62",
+        "when": "s62",
         "model": {
           "type": "model",
-          "model": "item/surah62"
+          "model": "item/s62"
         }
       },
       {
-        "when": "surah63",
+        "when": "s63",
         "model": {
           "type": "model",
-          "model": "item/surah63"
+          "model": "item/s63"
         }
       },
       {
-        "when": "surah64",
+        "when": "s64",
         "model": {
           "type": "model",
-          "model": "item/surah64"
+          "model": "item/s64"
         }
       },
       {
-        "when": "surah65",
+        "when": "s65",
         "model": {
           "type": "model",
-          "model": "item/surah65"
+          "model": "item/s65"
         }
       },
       {
-        "when": "surah66",
+        "when": "s66",
         "model": {
           "type": "model",
-          "model": "item/surah66"
+          "model": "item/s66"
         }
       },
       {
-        "when": "surah67",
+        "when": "s67",
         "model": {
           "type": "model",
-          "model": "item/surah67"
+          "model": "item/s67"
         }
       },
       {
-        "when": "surah69",
+        "when": "s69",
         "model": {
           "type": "model",
-          "model": "item/surah69"
+          "model": "item/s69"
         }
       },
       {
-        "when": "surah70",
+        "when": "s70",
         "model": {
           "type": "model",
-          "model": "item/surah70"
+          "model": "item/s70"
         }
       },
       {
-        "when": "surah71",
+        "when": "s71",
         "model": {
           "type": "model",
-          "model": "item/surah71"
+          "model": "item/s71"
         }
       },
       {
-        "when": "surah72",
+        "when": "s72",
         "model": {
           "type": "model",
-          "model": "item/surah72"
+          "model": "item/s72"
         }
       },
       {
-        "when": "surah73",
+        "when": "s73",
         "model": {
           "type": "model",
-          "model": "item/surah73"
+          "model": "item/s73"
         }
       },
       {
-        "when": "surah74",
+        "when": "s74",
         "model": {
           "type": "model",
-          "model": "item/surah74"
+          "model": "item/s74"
         }
       },
       {
-        "when": "surah75",
+        "when": "s75",
         "model": {
           "type": "model",
-          "model": "item/surah75"
+          "model": "item/s75"
         }
       },
       {
-        "when": "surah76",
+        "when": "s76",
         "model": {
           "type": "model",
-          "model": "item/surah76"
+          "model": "item/s76"
         }
       },
       {
-        "when": "surah77",
+        "when": "s77",
         "model": {
           "type": "model",
-          "model": "item/surah77"
+          "model": "item/s77"
         }
       },
       {
-        "when": "surah78",
+        "when": "s78",
         "model": {
           "type": "model",
-          "model": "item/surah78"
+          "model": "item/s78"
         }
       },
       {
-        "when": "surah79",
+        "when": "s79",
         "model": {
           "type": "model",
-          "model": "item/surah79"
+          "model": "item/s79"
         }
       },
       {
-        "when": "surah80",
+        "when": "s80",
         "model": {
           "type": "model",
-          "model": "item/surah80"
+          "model": "item/s80"
         }
       },
       {
-        "when": "surah81",
+        "when": "s81",
         "model": {
           "type": "model",
-          "model": "item/surah81"
+          "model": "item/s81"
         }
       },
       {
-        "when": "surah82",
+        "when": "s82",
         "model": {
           "type": "model",
-          "model": "item/surah82"
+          "model": "item/s82"
         }
       },
       {
-        "when": "surah83",
+        "when": "s83",
         "model": {
           "type": "model",
-          "model": "item/surah83"
+          "model": "item/s83"
         }
       },
       {
-        "when": "surah84",
+        "when": "s84",
         "model": {
           "type": "model",
-          "model": "item/surah84"
+          "model": "item/s84"
         }
       },
       {
-        "when": "surah85",
+        "when": "s85",
         "model": {
           "type": "model",
-          "model": "item/surah85"
+          "model": "item/s85"
         }
       },
       {
-        "when": "surah86",
+        "when": "s86",
         "model": {
           "type": "model",
-          "model": "item/surah86"
+          "model": "item/s86"
         }
       },
       {
-        "when": "surah87",
+        "when": "s87",
         "model": {
           "type": "model",
-          "model": "item/surah87"
+          "model": "item/s87"
         }
       },
       {
-        "when": "surah88",
+        "when": "s88",
         "model": {
           "type": "model",
-          "model": "item/surah88"
+          "model": "item/s88"
         }
       },
       {
-        "when": "surah89",
+        "when": "s89",
         "model": {
           "type": "model",
-          "model": "item/surah89"
+          "model": "item/s89"
         }
       },
       {
-        "when": "surah90",
+        "when": "s90",
         "model": {
           "type": "model",
-          "model": "item/surah90"
+          "model": "item/s90"
         }
       },
       {
-        "when": "surah91",
+        "when": "s91",
         "model": {
           "type": "model",
-          "model": "item/surah91"
+          "model": "item/s91"
         }
       },
       {
-        "when": "surah92",
+        "when": "s92",
         "model": {
           "type": "model",
-          "model": "item/surah92"
+          "model": "item/s92"
         }
       },
       {
-        "when": "surah93",
+        "when": "s93",
         "model": {
           "type": "model",
-          "model": "item/surah93"
+          "model": "item/s93"
         }
       },
       {
-        "when": "surah94",
+        "when": "s94",
         "model": {
           "type": "model",
-          "model": "item/surah94"
+          "model": "item/s94"
         }
       },
       {
-        "when": "surah95",
+        "when": "s95",
         "model": {
           "type": "model",
-          "model": "item/surah95"
+          "model": "item/s95"
         }
       },
       {
-        "when": "surah96",
+        "when": "s96",
         "model": {
           "type": "model",
-          "model": "item/surah96"
+          "model": "item/s96"
         }
       },
       {
-        "when": "surah97",
+        "when": "s97",
         "model": {
           "type": "model",
-          "model": "item/surah97"
+          "model": "item/s97"
         }
       },
       {
-        "when": "surah98",
+        "when": "s98",
         "model": {
           "type": "model",
-          "model": "item/surah98"
+          "model": "item/s98"
         }
       },
       {
-        "when": "surah99",
+        "when": "s99",
         "model": {
           "type": "model",
-          "model": "item/surah99"
+          "model": "item/s99"
         }
       },
       {
-        "when": "surah100",
+        "when": "s100",
         "model": {
           "type": "model",
-          "model": "item/surah100"
+          "model": "item/s100"
         }
       },
       {
-        "when": "surah101",
+        "when": "s101",
         "model": {
           "type": "model",
-          "model": "item/surah101"
+          "model": "item/s101"
         }
       },
       {
-        "when": "surah102",
+        "when": "s102",
         "model": {
           "type": "model",
-          "model": "item/surah102"
+          "model": "item/s102"
         }
       },
       {
-        "when": "surah103",
+        "when": "s103",
         "model": {
           "type": "model",
-          "model": "item/surah103"
+          "model": "item/s103"
         }
       },
       {
-        "when": "surah104",
+        "when": "s104",
         "model": {
           "type": "model",
-          "model": "item/surah104"
+          "model": "item/s104"
         }
       },
       {
-        "when": "surah105",
+        "when": "s105",
         "model": {
           "type": "model",
-          "model": "item/surah105"
+          "model": "item/s105"
         }
       },
       {
-        "when": "surah106",
+        "when": "s106",
         "model": {
           "type": "model",
-          "model": "item/surah106"
+          "model": "item/s106"
         }
       },
       {
-        "when": "surah107",
+        "when": "s107",
         "model": {
           "type": "model",
-          "model": "item/surah107"
+          "model": "item/s107"
         }
       },
       {
-        "when": "surah108",
+        "when": "s108",
         "model": {
           "type": "model",
-          "model": "item/surah108"
+          "model": "item/s108"
         }
       },
       {
-        "when": "surah109",
+        "when": "s109",
         "model": {
           "type": "model",
-          "model": "item/surah109"
+          "model": "item/s109"
         }
       },
       {
-        "when": "surah110",
+        "when": "s110",
         "model": {
           "type": "model",
-          "model": "item/surah110"
+          "model": "item/s110"
         }
       },
       {
-        "when": "surah111",
+        "when": "s111",
         "model": {
           "type": "model",
-          "model": "item/surah111"
+          "model": "item/s111"
         }
       },
       {
-        "when": "surah112",
+        "when": "s112",
         "model": {
           "type": "model",
-          "model": "item/surah112"
+          "model": "item/s112"
         }
       },
       {
-        "when": "surah113",
+        "when": "s113",
         "model": {
           "type": "model",
-          "model": "item/surah113"
+          "model": "item/s113"
         }
       },
       {
-        "when": "surah114",
+        "when": "s114",
         "model": {
           "type": "model",
-          "model": "item/surah114"
+          "model": "item/s114"
         }
       }
     ]

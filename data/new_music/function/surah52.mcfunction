@@ -1,2 +1,2 @@
 #give Surah 52, At-Tur to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:surah52__at_tur51",minecraft:custom_model_data={strings:["surah52__at_tur51"]}]
+give @s minecraft:music_disc_13[minecraft:jukebox_playable="new_music:s52",minecraft:custom_model_data={strings:["s52"]}]

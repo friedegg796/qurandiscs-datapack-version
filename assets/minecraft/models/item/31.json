@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/surah31__luqman30"
+    "layer0": "item/s31__luqman30"
   }
 }

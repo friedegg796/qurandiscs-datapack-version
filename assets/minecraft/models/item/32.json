@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/surah32__as_sajdah31"
+    "layer0": "item/s32__as_sajdah31"
   }
 }
