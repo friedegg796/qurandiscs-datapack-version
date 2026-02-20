@@ -1,0 +1,1559 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 2,
+                "min": 0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1,
+                "min": 0
+              },
+              "enchantment": "minecraft:looting",
+              "function": "minecraft:enchanted_count_increase"
+            }
+          ],
+          "name": "minecraft:gunpowder"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "bonus_rolls": 0,
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "attacker",
+          "predicate": {
+            "type": "#minecraft:skeletons"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "expand": true,
+          "name": "minecraft:creeper_drop_music_discs",
+          "weight": 1,
+          "quality": 1
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "bonus_rolls": 0,
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "attacker",
+          "predicate": {
+            "type": "#minecraft:skeletons"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "1"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s1"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "1"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s1"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "s2"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s2"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "s2"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s2"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "s3"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s3"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "s3"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s3"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "4"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s4"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "s4"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s4"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "s5"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s5"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "s5"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s5"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "6an_am5"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s6"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "6an_am5"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s6"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "s7"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s7"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "s7"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s7"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "8anfal7"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s8"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "8anfal7"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s8"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "9"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s9"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "9"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s9"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "10"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s10"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "10"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s10"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "11"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s11"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "11"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s11"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "12"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s12"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "12"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s12"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "13ra_d12"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s13ra_d12"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "13"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s13"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "14"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s14"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "14"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s14"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "15hijr14"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s15hijr14"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "15hijr14"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s15"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "s16"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s16"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "s16"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s16"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "s17"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s17"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "s17"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s17"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "18kahf17"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s18"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "18kahf17"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s18"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "19"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s19"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "19"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s19"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "20"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s20"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "20"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s20"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "21anbya20"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s21anbya20"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "21"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s21"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "22hajj21"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s22hajj21"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "22"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s22"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "23"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s23"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "23mu_minun22"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s23"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "24nur23"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s24nur23"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "24nur23"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s24"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "25furqan24"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s25furqan24"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "25"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s25"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "26"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s26"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "26shu_ara25"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s26"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "27naml26"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s27naml26"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "27naml26"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s27"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "28qasas27"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s28"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "28qasas27"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s28"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "29_ankabut28"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s29"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "29"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s29"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "30"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s30"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "30"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s30"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "31"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s31"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "31"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s31"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "32"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s32"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "32"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s32"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "33ahzab32"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s33ahzab32"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "33ahzab32"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s33"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "34"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s34"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "34"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s34"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "35"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s35"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "35"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s35"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "36"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s36"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "36"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s36"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "37"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s37"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "37"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s37"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "38"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s38"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "38"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s38"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "39zumar38"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s39zumar38"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "39zumar38"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s39"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "40"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s40"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "40"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s40"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "41"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s41"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "41"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s41"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "42shuraa41"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s42shuraa41"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "42shuraa41"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s42"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "43zuhkruf42"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s43zuhkruf42"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "43zuhkruf42"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s43"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "44"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s44"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "44"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s44"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "45jathiyah44"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s45jathiyah44"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "45jathiyah44"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s45"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "46ahqaf45"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s46ahqaf45"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "46"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s46"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "47"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s47"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "47"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s47"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "48fath47"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s48fath47"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "48"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s48"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "49"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s49"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "49hujurat48"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s49"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "50"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s50"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "50"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s50"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "51"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s51"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "51"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s51"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "52"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s52"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "52"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s52"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "53"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s53"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "53"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s53"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "54"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s54"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "54"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s54"
+              }
+            }
+          ]
+        },
+         {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "55"
+              ]
+            },
+            "minecraft:jukebox_playable": "quran:s55"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "55"
+                  ]
+                },
+                "minecraft:jukebox_playable": "quran:s55"
+              }
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+    
+  ],
+  "random_sequence": "minecraft:entities/creeper"
+}
