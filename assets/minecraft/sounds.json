@@ -1,16 +1,16 @@
 {
-  "music_disc.1": {
+  "music_disc.s1": {
     "sounds": [
       {
-        "name": "records/1",
+        "name": "records/s1",
         "stream": true
       }
     ]
   },
-  "music_disc.surah2": {
+  "music_disc.s2": {
     "sounds": [
       {
-        "name": "records/2",
+        "name": "records/s2",
         "stream": true
       }
     ]
@@ -18,895 +18,895 @@
   "music_disc.s3": {
     "sounds": [
       {
-        "name": "records/3",
+        "name": "records/s3",
         "stream": true
       }
     ]
   },
-  "music_disc.surah4nisa3": {
+  "music_disc.s4": {
     "sounds": [
       {
-        "name": "records/4",
+        "name": "records/s4",
         "stream": true
       }
     ]
   },
-  "music_disc.surah5ma_idah4": {
+  "music_disc.s5": {
     "sounds": [
       {
-        "name": "records/5ma_idah4",
+        "name": "records/s5",
         "stream": true
       }
     ]
   },
-  "music_disc.surah6an_am5": {
+  "music_disc.s6": {
     "sounds": [
       {
-        "name": "records/6an_am5",
+        "name": "records/s6",
         "stream": true
       }
     ]
   },
-  "music_disc.surah7ar_af6": {
+  "music_disc.s7": {
     "sounds": [
       {
-        "name": "records/7ar_af6",
+        "name": "records/s7",
         "stream": true
       }
     ]
   },
-  "music_disc.surah8anfal7": {
+  "music_disc.s8anfal7": {
     "sounds": [
       {
-        "name": "records/8anfal7",
+        "name": "records/s8",
         "stream": true
       }
     ]
   },
-  "music_disc.surah9__at_tawbah8": {
+  "music_disc.s9": {
     "sounds": [
       {
-        "name": "records/9__at_tawbah8",
+        "name": "records/s9",
         "stream": true
       }
     ]
   },
-  "music_disc.surah10__yunus9": {
+  "music_disc.s10": {
     "sounds": [
       {
-        "name": "records/10__yunus9",
+        "name": "records/s10",
         "stream": true
       }
     ]
   },
-  "music_disc.surah11__hud10": {
+  "music_disc.s11": {
     "sounds": [
       {
-        "name": "records/11__hud10",
+        "name": "records/s11",
         "stream": true
       }
     ]
   },
-  "music_disc.surah12__yusuf11": {
+  "music_disc.s12": {
     "sounds": [
       {
-        "name": "records/12__yusuf11",
+        "name": "records/s12",
         "stream": true
       }
     ]
   },
-  "music_disc.surah13ra_d12": {
+  "music_disc.s13": {
     "sounds": [
       {
-        "name": "records/13ra_d12",
+        "name": "records/s13",
         "stream": true
       }
     ]
   },
-  "music_disc.surah14__ibrahim13": {
+  "music_disc.s14": {
     "sounds": [
       {
-        "name": "records/14__ibrahim13",
+        "name": "records/s14",
         "stream": true
       }
     ]
   },
-  "music_disc.surah15hijr14": {
+  "music_disc.s15": {
     "sounds": [
       {
-        "name": "records/15hijr14",
+        "name": "records/s15",
         "stream": true
       }
     ]
   },
-  "music_disc.surah16nahl15": {
+  "music_disc.s16": {
     "sounds": [
       {
-        "name": "records/16nahl15",
+        "name": "records/s16",
         "stream": true
       }
     ]
   },
-  "music_disc.surah17isra16": {
+  "music_disc.s17": {
     "sounds": [
       {
-        "name": "records/17isra16",
+        "name": "records/s17",
         "stream": true
       }
     ]
   },
-  "music_disc.surah18kahf17": {
+  "music_disc.s18": {
     "sounds": [
       {
-        "name": "records/18kahf17",
+        "name": "records/s18",
         "stream": true
       }
     ]
   },
-  "music_disc.surah19__maryam18": {
+  "music_disc.s19": {
     "sounds": [
       {
-        "name": "records/19__maryam18",
+        "name": "records/s19",
         "stream": true
       }
     ]
   },
-  "music_disc.surah20__taha19": {
+  "music_disc.s20": {
     "sounds": [
       {
-        "name": "records/20__taha19",
+        "name": "records/s20",
         "stream": true
       }
     ]
   },
-  "music_disc.surah21anbya20": {
+  "music_disc.s21": {
     "sounds": [
       {
-        "name": "records/21anbya20",
+        "name": "records/s21",
         "stream": true
       }
     ]
   },
-  "music_disc.surah22hajj21": {
+  "music_disc.s22": {
     "sounds": [
       {
-        "name": "records/22hajj21",
+        "name": "records/s22",
         "stream": true
       }
     ]
   },
-  "music_disc.surah23mu_minun22": {
+  "music_disc.s23": {
     "sounds": [
       {
-        "name": "records/23mu_minun22",
+        "name": "records/s23",
         "stream": true
       }
     ]
   },
-  "music_disc.surah24nur23": {
+  "music_disc.s24": {
     "sounds": [
       {
-        "name": "records/24nur23",
+        "name": "records/s24",
         "stream": true
       }
     ]
   },
-  "music_disc.surah25furqan24": {
+  "music_disc.s25": {
     "sounds": [
       {
-        "name": "records/25furqan24",
+        "name": "records/s25",
         "stream": true
       }
     ]
   },
-  "music_disc.surah26shu_ara25": {
+  "music_disc.s26": {
     "sounds": [
       {
-        "name": "records/26shu_ara25",
+        "name": "records/s26",
         "stream": true
       }
     ]
   },
-  "music_disc.surah27naml26": {
+  "music_disc.s27": {
     "sounds": [
       {
-        "name": "records/27naml26",
+        "name": "records/s27",
         "stream": true
       }
     ]
   },
-  "music_disc.surah28qasas27": {
+  "music_disc.s28": {
     "sounds": [
       {
-        "name": "records/28qasas27",
+        "name": "records/s28",
         "stream": true
       }
     ]
   },
-  "music_disc.surah29_ankabut28": {
+  "music_disc.s29": {
     "sounds": [
       {
-        "name": "records/29_ankabut28",
+        "name": "records/s29",
         "stream": true
       }
     ]
   },
-  "music_disc.surah30rum29": {
+  "music_disc.s30": {
     "sounds": [
       {
-        "name": "records/30rum29",
+        "name": "records/s30",
         "stream": true
       }
     ]
   },
-  "music_disc.surah31__luqman30": {
+  "music_disc.s31": {
     "sounds": [
       {
-        "name": "records/31__luqman30",
+        "name": "records/s31",
         "stream": true
       }
     ]
   },
-  "music_disc.surah32__as_sajdah31": {
+  "music_disc.s32": {
     "sounds": [
       {
-        "name": "records/32__as_sajdah31",
+        "name": "records/s32",
         "stream": true
       }
     ]
   },
-  "music_disc.surah33ahzab32": {
+  "music_disc.s33": {
     "sounds": [
       {
-        "name": "records/33ahzab32",
+        "name": "records/s33",
         "stream": true
       }
     ]
   },
-  "music_disc.surah34__saba33": {
+  "music_disc.s34": {
     "sounds": [
       {
-        "name": "records/34__saba33",
+        "name": "records/s34",
         "stream": true
       }
     ]
   },
-  "music_disc.surah35__fatir34": {
+  "music_disc.s35": {
     "sounds": [
       {
-        "name": "records/35__fatir34",
+        "name": "records/s35",
         "stream": true
       }
     ]
   },
-  "music_disc.surah36__ya_sin35": {
+  "music_disc.s36": {
     "sounds": [
       {
-        "name": "records/36__ya_sin35",
+        "name": "records/s36",
         "stream": true
       }
     ]
   },
-  "music_disc.surah37__as_saffat36": {
+  "music_disc.s37": {
     "sounds": [
       {
-        "name": "records/37__as_saffat36",
+        "name": "records/s37",
         "stream": true
       }
     ]
   },
-  "music_disc.surah38__sad37": {
+  "music_disc.s38": {
     "sounds": [
       {
-        "name": "records/38__sad37",
+        "name": "records/s38",
         "stream": true
       }
     ]
   },
-  "music_disc.surah39zumar38": {
+  "music_disc.s39": {
     "sounds": [
       {
-        "name": "records/39zumar38",
+        "name": "records/s39",
         "stream": true
       }
     ]
   },
-  "music_disc.surah40": {
+  "music_disc.s40": {
     "sounds": [
       {
-        "name": "records/40",
+        "name": "records/s40",
         "stream": true
       }
     ]
   },
-  "music_disc.surah41__fussilat40": {
+  "music_disc.s41": {
     "sounds": [
       {
-        "name": "records/41__fussilat40",
+        "name": "records/s41",
         "stream": true
       }
     ]
   },
-  "music_disc.surah42shuraa41": {
+  "music_disc.s42": {
     "sounds": [
       {
-        "name": "records/42shuraa41",
+        "name": "records/s42",
         "stream": true
       }
     ]
   },
-  "music_disc.surah43zuhkruf42": {
+  "music_disc.s43": {
     "sounds": [
       {
-        "name": "records/43zuhkruf42",
+        "name": "records/s43",
         "stream": true
       }
     ]
   },
-  "music_disc.surah44__ad_dukhan43": {
+  "music_disc.s44": {
     "sounds": [
       {
-        "name": "records/44__ad_dukhan43",
+        "name": "records/s44",
         "stream": true
       }
     ]
   },
-  "music_disc.surah45jathiyah44": {
+  "music_disc.s45": {
     "sounds": [
       {
-        "name": "records/45jathiyah44",
+        "name": "records/s45",
         "stream": true
       }
     ]
   },
-  "music_disc.surah46ahqaf45": {
+  "music_disc.s46": {
     "sounds": [
       {
-        "name": "records/46ahqaf45",
+        "name": "records/s46",
         "stream": true
       }
     ]
   },
-  "music_disc.surah47__muhammad46": {
+  "music_disc.s47": {
     "sounds": [
       {
-        "name": "records/47__muhammad46",
+        "name": "records/s47",
         "stream": true
       }
     ]
   },
-  "music_disc.surah48fath47": {
+  "music_disc.s48": {
     "sounds": [
       {
-        "name": "records/48fath47",
+        "name": "records/s48",
         "stream": true
       }
     ]
   },
-  "music_disc.surah49hujurat48": {
+  "music_disc.s49": {
     "sounds": [
       {
-        "name": "records/49hujurat48",
+        "name": "records/s49",
         "stream": true
       }
     ]
   },
-  "music_disc.surah50__qaf49": {
+  "music_disc.s50": {
     "sounds": [
       {
-        "name": "records/50__qaf49",
+        "name": "records/s50",
         "stream": true
       }
     ]
   },
-  "music_disc.surah51__adh_dhariyat50": {
+  "music_disc.s51": {
     "sounds": [
       {
-        "name": "records/51__adh_dhariyat50",
+        "name": "records/s51",
         "stream": true
       }
     ]
   },
-  "music_disc.surah52__at_tur51": {
+  "music_disc.s52": {
     "sounds": [
       {
-        "name": "records/52__at_tur51",
+        "name": "records/s52",
         "stream": true
       }
     ]
   },
-  "music_disc.surah52": {
+  "music_disc.s53": {
     "sounds": [
       {
-        "name": "records/music_disc_surah52",
+        "name": "records/s53",
         "stream": true
       }
     ]
   },
-  "music_disc.surah53": {
+  "music_disc.s54": {
     "sounds": [
       {
-        "name": "records/music_disc_surah53",
+        "name": "records/s54",
         "stream": true
       }
     ]
   },
-  "music_disc.surah54": {
+  "music_disc.s55": {
     "sounds": [
       {
-        "name": "records/music_disc_surah54",
+        "name": "records/s55",
         "stream": true
       }
     ]
   },
-  "music_disc.surah55": {
+  "music_disc.s56": {
     "sounds": [
       {
-        "name": "records/music_disc_surah55",
+        "name": "records/s56",
         "stream": true
       }
     ]
   },
-  "music_disc.surah56": {
+  "music_disc.s57": {
     "sounds": [
       {
-        "name": "records/music_disc_surah56",
+        "name": "records/s57",
         "stream": true
       }
     ]
   },
-  "music_disc.surah57": {
+  "music_disc.s58": {
     "sounds": [
       {
-        "name": "records/music_disc_surah57",
+        "name": "records/s58",
         "stream": true
       }
     ]
   },
-  "music_disc.surah58": {
+  "music_disc.s59": {
     "sounds": [
       {
-        "name": "records/music_disc_surah58",
+        "name": "records/s59",
         "stream": true
       }
     ]
   },
-  "music_disc.surah59": {
+  "music_disc.s60": {
     "sounds": [
       {
-        "name": "records/music_disc_surah59",
+        "name": "records/s60",
         "stream": true
       }
     ]
   },
-  "music_disc.surah60": {
+  "music_disc.s61": {
     "sounds": [
       {
-        "name": "records/music_disc_surah60",
+        "name": "records/s61",
         "stream": true
       }
     ]
   },
-  "music_disc.surah61": {
+  "music_disc.s62": {
     "sounds": [
       {
-        "name": "records/music_disc_surah61",
+        "name": "records/s62",
         "stream": true
       }
     ]
   },
-  "music_disc.surah62": {
+  "music_disc.s63": {
     "sounds": [
       {
-        "name": "records/music_disc_surah62",
+        "name": "records/s63",
         "stream": true
       }
     ]
   },
-  "music_disc.surah63": {
+  "music_disc.s64": {
     "sounds": [
       {
-        "name": "records/music_disc_surah63",
+        "name": "records/s64",
         "stream": true
       }
     ]
   },
-  "music_disc.surah64": {
+  "music_disc.s65": {
     "sounds": [
       {
-        "name": "records/music_disc_surah64",
+        "name": "records/s65",
         "stream": true
       }
     ]
   },
-  "music_disc.surah65": {
+  "music_disc.s66": {
     "sounds": [
       {
-        "name": "records/music_disc_surah65",
+        "name": "records/s66",
         "stream": true
       }
     ]
   },
-  "music_disc.surah66": {
+  "music_disc.s67": {
     "sounds": [
       {
-        "name": "records/music_disc_surah66",
+        "name": "records/s67",
         "stream": true
       }
     ]
   },
-  "music_disc.surah67": {
+  "music_disc.s68": {
     "sounds": [
       {
-        "name": "records/music_disc_surah67",
+        "name": "records/s68",
         "stream": true
       }
     ]
   },
-  "music_disc.surah69": {
+  "music_disc.s69": {
     "sounds": [
       {
-        "name": "records/music_disc_surah69",
+        "name": "records/s69",
         "stream": true
       }
     ]
   },
-  "music_disc.surah70": {
+  "music_disc.s70": {
     "sounds": [
       {
-        "name": "records/music_disc_surah70",
+        "name": "records/s70",
         "stream": true
       }
     ]
   },
-  "music_disc.surah71": {
+  "music_disc.s71": {
     "sounds": [
       {
-        "name": "records/music_disc_surah71",
+        "name": "records/s71",
         "stream": true
       }
     ]
   },
-  "music_disc.surah72": {
+  "music_disc.s72": {
     "sounds": [
       {
-        "name": "records/music_disc_surah72",
+        "name": "records/s72",
         "stream": true
       }
     ]
   },
-  "music_disc.surah73": {
+  "music_disc.s73": {
     "sounds": [
       {
-        "name": "records/music_disc_surah73",
+        "name": "records/s73",
         "stream": true
       }
     ]
   },
-  "music_disc.surah74": {
+  "music_disc.s74": {
     "sounds": [
       {
-        "name": "records/music_disc_surah74",
+        "name": "records/s74",
         "stream": true
       }
     ]
   },
-  "music_disc.surah75": {
+  "music_disc.s75": {
     "sounds": [
       {
-        "name": "records/music_disc_surah75",
+        "name": "records/s75",
         "stream": true
       }
     ]
   },
-  "music_disc.surah76": {
+  "music_disc.s76": {
     "sounds": [
       {
-        "name": "records/music_disc_surah76",
+        "name": "records/s76",
         "stream": true
       }
     ]
   },
-  "music_disc.surah77": {
+  "music_disc.s77": {
     "sounds": [
       {
-        "name": "records/music_disc_surah77",
+        "name": "records/s77",
         "stream": true
       }
     ]
   },
-  "music_disc.surah78": {
+  "music_disc.s78": {
     "sounds": [
       {
-        "name": "records/music_disc_surah78",
+        "name": "records/s78",
         "stream": true
       }
     ]
   },
-  "music_disc.surah79": {
+  "music_disc.s79": {
     "sounds": [
       {
-        "name": "records/music_disc_surah79",
+        "name": "records/s79",
         "stream": true
       }
     ]
   },
-  "music_disc.surah80": {
+  "music_disc.s80": {
     "sounds": [
       {
-        "name": "records/music_disc_surah80",
+        "name": "records/s80",
         "stream": true
       }
     ]
   },
-  "music_disc.surah81": {
+  "music_disc.s81": {
     "sounds": [
       {
-        "name": "records/music_disc_surah81",
+        "name": "records/s81",
         "stream": true
       }
     ]
   },
-  "music_disc.surah82": {
+  "music_disc.s82": {
     "sounds": [
       {
-        "name": "records/music_disc_surah82",
+        "name": "records/s82",
         "stream": true
       }
     ]
   },
-  "music_disc.surah83": {
+  "music_disc.s83": {
     "sounds": [
       {
-        "name": "records/music_disc_surah83",
+        "name": "records/s83",
         "stream": true
       }
     ]
   },
-  "music_disc.surah84": {
+  "music_disc.s84": {
     "sounds": [
       {
-        "name": "records/music_disc_surah84",
+        "name": "records/s84",
         "stream": true
       }
     ]
   },
-  "music_disc.surah85": {
+  "music_disc.s85": {
     "sounds": [
       {
-        "name": "records/music_disc_surah85",
+        "name": "records/s85",
         "stream": true
       }
     ]
   },
-  "music_disc.surah86": {
+  "music_disc.s86": {
     "sounds": [
       {
-        "name": "records/music_disc_surah86",
+        "name": "records/s86",
         "stream": true
       }
     ]
   },
-  "music_disc.surah87": {
+  "music_disc.s87": {
     "sounds": [
       {
-        "name": "records/music_disc_surah87",
+        "name": "records/s87",
         "stream": true
       }
     ]
   },
-  "music_disc.surah88": {
+  "music_disc.s88": {
     "sounds": [
       {
-        "name": "records/music_disc_surah88",
+        "name": "records/s88",
         "stream": true
       }
     ]
   },
-  "music_disc.surah89": {
+  "music_disc.s89": {
     "sounds": [
       {
-        "name": "records/music_disc_surah89",
+        "name": "records/s89",
         "stream": true
       }
     ]
   },
-  "music_disc.surah90": {
+  "music_disc.s90": {
     "sounds": [
       {
-        "name": "records/music_disc_surah90",
+        "name": "records/s90",
         "stream": true
       }
     ]
   },
-  "music_disc.surah91": {
+  "music_disc.s91": {
     "sounds": [
       {
-        "name": "records/music_disc_surah91",
+        "name": "records/s91",
         "stream": true
       }
     ]
   },
-  "music_disc.surah92": {
+  "music_disc.s92": {
     "sounds": [
       {
-        "name": "records/music_disc_surah92",
+        "name": "records/s92",
         "stream": true
       }
     ]
   },
-  "music_disc.surah93": {
+  "music_disc.s93": {
     "sounds": [
       {
-        "name": "records/music_disc_surah93",
+        "name": "records/s93",
         "stream": true
       }
     ]
   },
-  "music_disc.surah94": {
+  "music_disc.s94": {
     "sounds": [
       {
-        "name": "records/music_disc_surah94",
+        "name": "records/s94",
         "stream": true
       }
     ]
   },
-  "music_disc.surah95": {
+  "music_disc.s95": {
     "sounds": [
       {
-        "name": "records/music_disc_surah95",
+        "name": "records/s95",
         "stream": true
       }
     ]
   },
-  "music_disc.surah96": {
+  "music_disc.s96": {
     "sounds": [
       {
-        "name": "records/music_disc_surah96",
+        "name": "records/s96",
         "stream": true
       }
     ]
   },
-  "music_disc.surah97": {
+  "music_disc.s97": {
     "sounds": [
       {
-        "name": "records/music_disc_surah97",
+        "name": "records/s97",
         "stream": true
       }
     ]
   },
-  "music_disc.surah98": {
+  "music_disc.s98": {
     "sounds": [
       {
-        "name": "records/music_disc_surah98",
+        "name": "records/s98",
         "stream": true
       }
     ]
   },
-  "music_disc.surah99": {
+  "music_disc.s99": {
     "sounds": [
       {
-        "name": "records/music_disc_surah99",
+        "name": "records/s99",
         "stream": true
       }
     ]
   },
-  "music_disc.surah100": {
+  "music_disc.s100": {
     "sounds": [
       {
-        "name": "records/music_disc_surah100",
+        "name": "records/s100",
         "stream": true
       }
     ]
   },
-  "music_disc.surah101": {
+  "music_disc.s101": {
     "sounds": [
       {
-        "name": "records/music_disc_surah101",
+        "name": "records/s101",
         "stream": true
       }
     ]
   },
-  "music_disc.surah102": {
+  "music_disc.s102": {
     "sounds": [
       {
-        "name": "records/music_disc_surah102",
+        "name": "records/s102",
         "stream": true
       }
     ]
   },
-  "music_disc.surah103": {
+  "music_disc.s103": {
     "sounds": [
       {
-        "name": "records/music_disc_surah103",
+        "name": "records/s103",
         "stream": true
       }
     ]
   },
-  "music_disc.surah104": {
+  "music_disc.s104": {
     "sounds": [
       {
-        "name": "records/music_disc_surah104",
+        "name": "records/s104",
         "stream": true
       }
     ]
   },
-  "music_disc.surah105": {
+  "music_disc.s105": {
     "sounds": [
       {
-        "name": "records/music_disc_surah105",
+        "name": "records/s105",
         "stream": true
       }
     ]
   },
-  "music_disc.surah106": {
+  "music_disc.s106": {
     "sounds": [
       {
-        "name": "records/music_disc_surah106",
+        "name": "records/s106",
         "stream": true
       }
     ]
   },
-  "music_disc.surah107": {
+  "music_disc.s107": {
     "sounds": [
       {
-        "name": "records/music_disc_surah107",
+        "name": "records/s107",
         "stream": true
       }
     ]
   },
-  "music_disc.surah108": {
+  "music_disc.s108": {
     "sounds": [
       {
-        "name": "records/music_disc_surah108",
+        "name": "records/s108",
         "stream": true
       }
     ]
   },
-  "music_disc.surah109": {
+  "music_disc.s109": {
     "sounds": [
       {
-        "name": "records/music_disc_surah109",
+        "name": "records/s109",
         "stream": true
       }
     ]
   },
-  "music_disc.surah110": {
+  "music_disc.s110": {
     "sounds": [
       {
-        "name": "records/music_disc_surah110",
+        "name": "records/s110",
         "stream": true
       }
     ]
   },
-  "music_disc.surah111": {
+  "music_disc.s111": {
     "sounds": [
       {
-        "name": "records/music_disc_surah111",
+        "name": "records/s111",
         "stream": true
       }
     ]
   },
-  "music_disc.surah112": {
+  "music_disc.s112": {
     "sounds": [
       {
-        "name": "records/music_disc_surah112",
+        "name": "records/s112",
         "stream": true
       }
     ]
   },
-  "music_disc.surah113": {
+  "music_disc.s113": {
     "sounds": [
       {
-        "name": "records/music_disc_surah113",
+        "name": "records/s113",
         "stream": true
       }
     ]
   },
-  "music_disc.surah114": {
+  "music_disc.s114": {
     "sounds": [
       {
-        "name": "records/music_disc_surah114",
+        "name": "records/s114",
         "stream": true
       }
     ]

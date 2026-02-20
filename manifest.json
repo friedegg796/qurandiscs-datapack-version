@@ -33,7 +33,7 @@
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 6901.498776,
       "filePath": "assets/minecraft/sounds/records/s4.ogg",
-      "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
+      "imagePath": "assets/minecraft/textures/item/s4.png",
       "animated": false
     },
     {
@@ -224,7 +224,7 @@
       "title": "Surah 28, Al-Qasas",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 3151.490612,
-      "filePath": "assets/minecraft/sounds/records/s28qasas27.ogg",
+      "filePath": "assets/minecraft/sounds/records/s28.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -232,7 +232,7 @@
       "title": "Surah 29, Al-'Ankabut",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2044.290612,
-      "filePath": "assets/minecraft/sounds/records/s29_ankabut28.ogg",
+      "filePath": "assets/minecraft/sounds/records/s29.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -240,7 +240,7 @@
       "title": "Surah 30, Ar-Rum",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 1726.589388,
-      "filePath": "assets/minecraft/sounds/records/s30rum29.ogg",
+      "filePath": "assets/minecraft/sounds/records/s30.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -264,7 +264,7 @@
       "title": "Surah 33, Al-Ahzab",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2430.302041,
-      "filePath": "assets/minecraft/sounds/records/s33ahzab32.ogg",
+      "filePath": "assets/minecraft/sounds/records/s33.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -312,7 +312,7 @@
       "title": "Surah 39, Az-Zumar",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 2322.364082,
-      "filePath": "assets/minecraft/sounds/records/s39zumar38.ogg",
+      "filePath": "assets/minecraft/sounds/records/s39.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -344,7 +344,7 @@
       "title": "Surah 43, Az-Zuhkruf",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 1875.461224,
-      "filePath": "assets/minecraft/sounds/records/s43zuhkruf42.ogg",
+      "filePath": "assets/minecraft/sounds/records/s43.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -360,7 +360,7 @@
       "title": "Surah 45, Al-Jathiyah",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 1072.352653,
-      "filePath": "assets/minecraft/sounds/records/s45jathiyah44.ogg",
+      "filePath": "assets/minecraft/sounds/records/s45.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -368,7 +368,7 @@
       "title": "Surah 46, Al-Ahqaf",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 1154.220408,
-      "filePath": "assets/minecraft/sounds/records/s46ahqaf45.ogg",
+      "filePath": "assets/minecraft/sounds/records/s46.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -384,7 +384,7 @@
       "title": "Surah 48, Al-Fath",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 1026.377143,
-      "filePath": "assets/minecraft/sounds/records/s48fath47.ogg",
+      "filePath": "assets/minecraft/sounds/records/s48.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -392,7 +392,7 @@
       "title": "Surah 49, Al-Hujurat",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 778.553469,
-      "filePath": "assets/minecraft/sounds/records/s49hujurat48.ogg",
+      "filePath": "assets/minecraft/sounds/records/s49.ogg",
       "imagePath": "assets/minecraft/textures/item/qurandisctemplate.png",
       "animated": false
     },
@@ -501,7 +501,7 @@
       "animated": false
     },
     {
-      "title": "Surah",
+      "title": "Surah 63",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 390.373878,
       "filePath": "assets/minecraft/sounds/records/s63.ogg",
@@ -509,7 +509,7 @@
       "animated": false
     },
     {
-      "title": "Surah",
+      "title": "Surah 64",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 506.697143,
       "filePath": "assets/minecraft/sounds/records/s64.ogg",
@@ -877,7 +877,7 @@
       "animated": false
     },
     {
-      "title": "Surah",
+      "title": "Surah 109",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 48.953469,
       "filePath": "assets/minecraft/sounds/records/s110.ogg",
@@ -885,7 +885,7 @@
       "animated": false
     },
     {
-      "title": "Surah",
+      "title": "Surah 110, ",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 54.282449,
       "filePath": "assets/minecraft/sounds/records/s111.ogg",
@@ -893,7 +893,7 @@
       "animated": false
     },
     {
-      "title": "Surah",
+      "title": "Surah 112, Iklhas",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 34.690612,
       "filePath": "assets/minecraft/sounds/records/s112.ogg",
@@ -901,7 +901,7 @@
       "animated": false
     },
     {
-      "title": "Surah",
+      "title": "Surah 113, Al-Falaq",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 48.169796,
       "filePath": "assets/minecraft/sounds/records/s113.ogg",
@@ -909,7 +909,7 @@
       "animated": false
     },
     {
-      "title": "Surah",
+      "title": "Surah 114, An-Nas",
       "author": "Mahmoud Khalil Al-Hussary",
       "length": 56.764082,
       "filePath": "assets/minecraft/sounds/records/s114.ogg",
