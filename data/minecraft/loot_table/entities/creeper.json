@@ -1488,10 +1488,64 @@
               "components": {
                 "minecraft:custom_model_data": {
                   "strings": [
-                    "52"
+                    "53"
                   ]
                 },
                 "minecraft:jukebox_playable": "new_music:s53"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "54"
+              ]
+            },
+            "minecraft:jukebox_playable": "new_music:s54"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "54"
+                  ]
+                },
+                "minecraft:jukebox_playable": "new_music:s54"
+              }
+            }
+          ]
+        },
+         {
+          "type": "minecraft:item",
+          "components": {
+            "minecraft:custom_model_data": {
+              "strings": [
+                "55"
+              ]
+            },
+            "minecraft:jukebox_playable": "new_music:s55"
+          },
+          "name": "minecraft:music_disc_13",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "strings": [
+                    "55"
+                  ]
+                },
+                "minecraft:jukebox_playable": "new_music:s55"
               }
             }
           ]
@@ -1499,6 +1553,7 @@
       ],
       "rolls": 1
     }
+    
   ],
   "random_sequence": "minecraft:entities/creeper"
 }
