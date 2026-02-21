@@ -73,7 +73,7 @@
                 "1"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s1"
+            "minecraft:jukebox_playable": "quran:s1"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -87,7 +87,7 @@
                     "1"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s1"
+                "minecraft:jukebox_playable": "quran:s1"
               }
             }
           ]
@@ -100,7 +100,7 @@
                 "s2"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s2"
+            "minecraft:jukebox_playable": "quran:s2"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -114,7 +114,7 @@
                     "s2"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s2"
+                "minecraft:jukebox_playable": "quran:s2"
               }
             }
           ]
@@ -127,7 +127,7 @@
                 "s3"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s3"
+            "minecraft:jukebox_playable": "quran:s3"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -141,7 +141,7 @@
                     "s3"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s3"
+                "minecraft:jukebox_playable": "quran:s3"
               }
             }
           ]
@@ -154,7 +154,7 @@
                 "4"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s4"
+            "minecraft:jukebox_playable": "quran:s4"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -168,7 +168,7 @@
                     "s4"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s4"
+                "minecraft:jukebox_playable": "quran:s4"
               }
             }
           ]
@@ -181,7 +181,7 @@
                 "s5"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s5"
+            "minecraft:jukebox_playable": "quran:s5"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -195,7 +195,7 @@
                     "s5"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s5"
+                "minecraft:jukebox_playable": "quran:s5"
               }
             }
           ]
@@ -208,7 +208,7 @@
                 "6an_am5"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s6"
+            "minecraft:jukebox_playable": "quran:s6"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -222,7 +222,7 @@
                     "6an_am5"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s6"
+                "minecraft:jukebox_playable": "quran:s6"
               }
             }
           ]
@@ -235,7 +235,7 @@
                 "s7"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s7"
+            "minecraft:jukebox_playable": "quran:s7"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -249,7 +249,7 @@
                     "s7"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s7"
+                "minecraft:jukebox_playable": "quran:s7"
               }
             }
           ]
@@ -262,7 +262,7 @@
                 "8anfal7"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s8"
+            "minecraft:jukebox_playable": "quran:s8"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -276,7 +276,7 @@
                     "8anfal7"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s8"
+                "minecraft:jukebox_playable": "quran:s8"
               }
             }
           ]
@@ -289,7 +289,7 @@
                 "9"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s9"
+            "minecraft:jukebox_playable": "quran:s9"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -303,7 +303,7 @@
                     "9"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s9"
+                "minecraft:jukebox_playable": "quran:s9"
               }
             }
           ]
@@ -316,7 +316,7 @@
                 "10"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s10"
+            "minecraft:jukebox_playable": "quran:s10"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -330,7 +330,7 @@
                     "10"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s10"
+                "minecraft:jukebox_playable": "quran:s10"
               }
             }
           ]
@@ -343,7 +343,7 @@
                 "11"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s11"
+            "minecraft:jukebox_playable": "quran:s11"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -357,7 +357,7 @@
                     "11"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s11"
+                "minecraft:jukebox_playable": "quran:s11"
               }
             }
           ]
@@ -370,7 +370,7 @@
                 "12"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s12"
+            "minecraft:jukebox_playable": "quran:s12"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -384,7 +384,7 @@
                     "12"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s12"
+                "minecraft:jukebox_playable": "quran:s12"
               }
             }
           ]
@@ -397,7 +397,7 @@
                 "13ra_d12"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s13ra_d12"
+            "minecraft:jukebox_playable": "quran:s13ra_d12"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -411,7 +411,7 @@
                     "13"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s13"
+                "minecraft:jukebox_playable": "quran:s13"
               }
             }
           ]
@@ -424,7 +424,7 @@
                 "14"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s14"
+            "minecraft:jukebox_playable": "quran:s14"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -438,7 +438,7 @@
                     "14"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s14"
+                "minecraft:jukebox_playable": "quran:s14"
               }
             }
           ]
@@ -451,7 +451,7 @@
                 "15hijr14"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s15hijr14"
+            "minecraft:jukebox_playable": "quran:s15hijr14"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -465,7 +465,7 @@
                     "15hijr14"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s15"
+                "minecraft:jukebox_playable": "quran:s15"
               }
             }
           ]
@@ -478,7 +478,7 @@
                 "s16"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s16"
+            "minecraft:jukebox_playable": "quran:s16"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -492,7 +492,7 @@
                     "s16"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s16"
+                "minecraft:jukebox_playable": "quran:s16"
               }
             }
           ]
@@ -505,7 +505,7 @@
                 "s17"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s17"
+            "minecraft:jukebox_playable": "quran:s17"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -519,7 +519,7 @@
                     "s17"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s17"
+                "minecraft:jukebox_playable": "quran:s17"
               }
             }
           ]
@@ -532,7 +532,7 @@
                 "18kahf17"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s18"
+            "minecraft:jukebox_playable": "quran:s18"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -546,7 +546,7 @@
                     "18kahf17"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s18"
+                "minecraft:jukebox_playable": "quran:s18"
               }
             }
           ]
@@ -559,7 +559,7 @@
                 "19"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s19"
+            "minecraft:jukebox_playable": "quran:s19"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -573,7 +573,7 @@
                     "19"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s19"
+                "minecraft:jukebox_playable": "quran:s19"
               }
             }
           ]
@@ -586,7 +586,7 @@
                 "20"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s20"
+            "minecraft:jukebox_playable": "quran:s20"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -600,7 +600,7 @@
                     "20"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s20"
+                "minecraft:jukebox_playable": "quran:s20"
               }
             }
           ]
@@ -613,7 +613,7 @@
                 "21anbya20"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s21anbya20"
+            "minecraft:jukebox_playable": "quran:s21anbya20"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -627,7 +627,7 @@
                     "21"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s21"
+                "minecraft:jukebox_playable": "quran:s21"
               }
             }
           ]
@@ -640,7 +640,7 @@
                 "22hajj21"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s22hajj21"
+            "minecraft:jukebox_playable": "quran:s22hajj21"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -654,7 +654,7 @@
                     "22"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s22"
+                "minecraft:jukebox_playable": "quran:s22"
               }
             }
           ]
@@ -667,7 +667,7 @@
                 "23"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s23"
+            "minecraft:jukebox_playable": "quran:s23"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -681,7 +681,7 @@
                     "23mu_minun22"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s23"
+                "minecraft:jukebox_playable": "quran:s23"
               }
             }
           ]
@@ -694,7 +694,7 @@
                 "24nur23"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s24nur23"
+            "minecraft:jukebox_playable": "quran:s24nur23"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -708,7 +708,7 @@
                     "24nur23"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s24"
+                "minecraft:jukebox_playable": "quran:s24"
               }
             }
           ]
@@ -721,7 +721,7 @@
                 "25furqan24"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s25furqan24"
+            "minecraft:jukebox_playable": "quran:s25furqan24"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -735,7 +735,7 @@
                     "25"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s25"
+                "minecraft:jukebox_playable": "quran:s25"
               }
             }
           ]
@@ -748,7 +748,7 @@
                 "26"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s26"
+            "minecraft:jukebox_playable": "quran:s26"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -762,7 +762,7 @@
                     "26shu_ara25"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s26"
+                "minecraft:jukebox_playable": "quran:s26"
               }
             }
           ]
@@ -775,7 +775,7 @@
                 "27naml26"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s27naml26"
+            "minecraft:jukebox_playable": "quran:s27naml26"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -789,7 +789,7 @@
                     "27naml26"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s27"
+                "minecraft:jukebox_playable": "quran:s27"
               }
             }
           ]
@@ -802,7 +802,7 @@
                 "28qasas27"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s28"
+            "minecraft:jukebox_playable": "quran:s28"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -816,7 +816,7 @@
                     "28qasas27"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s28"
+                "minecraft:jukebox_playable": "quran:s28"
               }
             }
           ]
@@ -829,7 +829,7 @@
                 "29_ankabut28"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s29"
+            "minecraft:jukebox_playable": "quran:s29"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -843,7 +843,7 @@
                     "29"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s29"
+                "minecraft:jukebox_playable": "quran:s29"
               }
             }
           ]
@@ -856,7 +856,7 @@
                 "30"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s30"
+            "minecraft:jukebox_playable": "quran:s30"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -870,7 +870,7 @@
                     "30"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s30"
+                "minecraft:jukebox_playable": "quran:s30"
               }
             }
           ]
@@ -883,7 +883,7 @@
                 "31"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s31"
+            "minecraft:jukebox_playable": "quran:s31"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -897,7 +897,7 @@
                     "31"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s31"
+                "minecraft:jukebox_playable": "quran:s31"
               }
             }
           ]
@@ -910,7 +910,7 @@
                 "32"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s32"
+            "minecraft:jukebox_playable": "quran:s32"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -924,7 +924,7 @@
                     "32"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s32"
+                "minecraft:jukebox_playable": "quran:s32"
               }
             }
           ]
@@ -937,7 +937,7 @@
                 "33ahzab32"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s33ahzab32"
+            "minecraft:jukebox_playable": "quran:s33ahzab32"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -951,7 +951,7 @@
                     "33ahzab32"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s33"
+                "minecraft:jukebox_playable": "quran:s33"
               }
             }
           ]
@@ -964,7 +964,7 @@
                 "34"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s34"
+            "minecraft:jukebox_playable": "quran:s34"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -978,7 +978,7 @@
                     "34"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s34"
+                "minecraft:jukebox_playable": "quran:s34"
               }
             }
           ]
@@ -991,7 +991,7 @@
                 "35"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s35"
+            "minecraft:jukebox_playable": "quran:s35"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1005,7 +1005,7 @@
                     "35"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s35"
+                "minecraft:jukebox_playable": "quran:s35"
               }
             }
           ]
@@ -1018,7 +1018,7 @@
                 "36"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s36"
+            "minecraft:jukebox_playable": "quran:s36"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1032,7 +1032,7 @@
                     "36"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s36"
+                "minecraft:jukebox_playable": "quran:s36"
               }
             }
           ]
@@ -1045,7 +1045,7 @@
                 "37"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s37"
+            "minecraft:jukebox_playable": "quran:s37"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1059,7 +1059,7 @@
                     "37"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s37"
+                "minecraft:jukebox_playable": "quran:s37"
               }
             }
           ]
@@ -1072,7 +1072,7 @@
                 "38"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s38"
+            "minecraft:jukebox_playable": "quran:s38"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1086,7 +1086,7 @@
                     "38"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s38"
+                "minecraft:jukebox_playable": "quran:s38"
               }
             }
           ]
@@ -1099,7 +1099,7 @@
                 "39zumar38"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s39zumar38"
+            "minecraft:jukebox_playable": "quran:s39zumar38"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1113,7 +1113,7 @@
                     "39zumar38"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s39"
+                "minecraft:jukebox_playable": "quran:s39"
               }
             }
           ]
@@ -1126,7 +1126,7 @@
                 "40"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s40"
+            "minecraft:jukebox_playable": "quran:s40"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1140,7 +1140,7 @@
                     "40"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s40"
+                "minecraft:jukebox_playable": "quran:s40"
               }
             }
           ]
@@ -1153,7 +1153,7 @@
                 "41"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s41"
+            "minecraft:jukebox_playable": "quran:s41"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1167,7 +1167,7 @@
                     "41"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s41"
+                "minecraft:jukebox_playable": "quran:s41"
               }
             }
           ]
@@ -1180,7 +1180,7 @@
                 "42shuraa41"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s42shuraa41"
+            "minecraft:jukebox_playable": "quran:s42shuraa41"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1194,7 +1194,7 @@
                     "42shuraa41"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s42"
+                "minecraft:jukebox_playable": "quran:s42"
               }
             }
           ]
@@ -1207,7 +1207,7 @@
                 "43zuhkruf42"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s43zuhkruf42"
+            "minecraft:jukebox_playable": "quran:s43zuhkruf42"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1221,7 +1221,7 @@
                     "43zuhkruf42"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s43"
+                "minecraft:jukebox_playable": "quran:s43"
               }
             }
           ]
@@ -1234,7 +1234,7 @@
                 "44"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s44"
+            "minecraft:jukebox_playable": "quran:s44"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1248,7 +1248,7 @@
                     "44"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s44"
+                "minecraft:jukebox_playable": "quran:s44"
               }
             }
           ]
@@ -1261,7 +1261,7 @@
                 "45jathiyah44"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s45jathiyah44"
+            "minecraft:jukebox_playable": "quran:s45jathiyah44"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1275,7 +1275,7 @@
                     "45jathiyah44"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s45"
+                "minecraft:jukebox_playable": "quran:s45"
               }
             }
           ]
@@ -1288,7 +1288,7 @@
                 "46ahqaf45"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s46ahqaf45"
+            "minecraft:jukebox_playable": "quran:s46ahqaf45"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1302,7 +1302,7 @@
                     "46"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s46"
+                "minecraft:jukebox_playable": "quran:s46"
               }
             }
           ]
@@ -1315,7 +1315,7 @@
                 "47"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s47"
+            "minecraft:jukebox_playable": "quran:s47"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1329,7 +1329,7 @@
                     "47"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s47"
+                "minecraft:jukebox_playable": "quran:s47"
               }
             }
           ]
@@ -1342,7 +1342,7 @@
                 "48fath47"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s48fath47"
+            "minecraft:jukebox_playable": "quran:s48fath47"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1356,7 +1356,7 @@
                     "48"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s48"
+                "minecraft:jukebox_playable": "quran:s48"
               }
             }
           ]
@@ -1369,7 +1369,7 @@
                 "49"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s49"
+            "minecraft:jukebox_playable": "quran:s49"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1383,7 +1383,7 @@
                     "49hujurat48"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s49"
+                "minecraft:jukebox_playable": "quran:s49"
               }
             }
           ]
@@ -1396,7 +1396,7 @@
                 "50"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s50"
+            "minecraft:jukebox_playable": "quran:s50"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1410,7 +1410,7 @@
                     "50"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s50"
+                "minecraft:jukebox_playable": "quran:s50"
               }
             }
           ]
@@ -1423,7 +1423,7 @@
                 "51"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s51"
+            "minecraft:jukebox_playable": "quran:s51"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1437,7 +1437,7 @@
                     "51"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s51"
+                "minecraft:jukebox_playable": "quran:s51"
               }
             }
           ]
@@ -1450,7 +1450,7 @@
                 "52"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s52"
+            "minecraft:jukebox_playable": "quran:s52"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1464,7 +1464,7 @@
                     "52"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s52"
+                "minecraft:jukebox_playable": "quran:s52"
               }
             }
           ]
@@ -1477,7 +1477,7 @@
                 "53"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s53"
+            "minecraft:jukebox_playable": "quran:s53"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1491,7 +1491,7 @@
                     "53"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s53"
+                "minecraft:jukebox_playable": "quran:s53"
               }
             }
           ]
@@ -1504,7 +1504,7 @@
                 "54"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s54"
+            "minecraft:jukebox_playable": "quran:s54"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1518,7 +1518,7 @@
                     "54"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s54"
+                "minecraft:jukebox_playable": "quran:s54"
               }
             }
           ]
@@ -1531,7 +1531,7 @@
                 "55"
               ]
             },
-            "minecraft:jukebox_playable": "new_music:s55"
+            "minecraft:jukebox_playable": "quran:s55"
           },
           "name": "minecraft:music_disc_13",
           "weight": 1,
@@ -1545,7 +1545,7 @@
                     "55"
                   ]
                 },
-                "minecraft:jukebox_playable": "new_music:s55"
+                "minecraft:jukebox_playable": "quran:s55"
               }
             }
           ]
