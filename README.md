@@ -1,4 +1,5 @@
-# Qurandiscs, datapack version!
+# Qurandiscs, datapack version! (1.20.1 and below) -- WIP
+
 
 Ever wanted to play the Quran in MC? Well now you can!
 
