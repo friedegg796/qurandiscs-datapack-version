@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 34,
     "supported_formats": [
-      15,
-      18
+      34,
+      79
     ],
     "description": "qurandiscs but datapack"
   }

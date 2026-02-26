@@ -1,1 +1,0 @@
-give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 67, Al-Mulk","color":"gray"}']},CustomModelData:11467,HideFlags:32} 1
