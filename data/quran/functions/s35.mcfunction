@@ -1,2 +1,1 @@
-#give Surah 35, Fatir to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s35",minecraft:custom_model_data={strings:["s35"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 35, Fatir","color":"gray"}']},CustomModelData:11435,HideFlags:32} 1

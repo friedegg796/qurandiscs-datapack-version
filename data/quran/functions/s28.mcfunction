@@ -1,2 +1,1 @@
-#give Surah 28, Al-Qasas to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s28",minecraft:custom_model_data={strings:["s28"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 28, Al-Qasas","color":"gray"}']},CustomModelData:11428,HideFlags:32} 1

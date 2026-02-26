@@ -1,2 +1,1 @@
-#give Surah 3, Ali-Imran to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s3",minecraft:custom_model_data={strings:["s3"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 3, Ali-`Imran","color":"gray"}']},CustomModelData:1143,HideFlags:32} 1

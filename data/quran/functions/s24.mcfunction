@@ -1,2 +1,1 @@
-#give Surah 24, An-Nur to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s24",minecraft:custom_model_data={strings:["s24"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 24, An-Nur","color":"gray"}']},CustomModelData:11424,HideFlags:32} 1

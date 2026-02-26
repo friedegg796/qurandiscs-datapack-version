@@ -1,2 +1,1 @@
-#give Surah 44, Ad-Dukhan to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s44",minecraft:custom_model_data={strings:["s44"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 44, Ad-Dukhan","color":"gray"}']},CustomModelData:11444,HideFlags:32} 1

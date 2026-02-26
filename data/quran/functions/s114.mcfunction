@@ -1,2 +1,2 @@
-#give Surah to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s114",minecraft:custom_model_data={strings:["s114"]}]
+
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 114, An-Nas","color":"gray"}']},CustomModelData:114114,HideFlags:32} 1

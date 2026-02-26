@@ -1,2 +1,1 @@
-#give Surah 1, Al-Fathia to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s1",minecraft:custom_model_data={strings:["s1"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 1, Al-Fathia","color":"gray"}']},CustomModelData:1141,HideFlags:32} 1

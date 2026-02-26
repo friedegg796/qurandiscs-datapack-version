@@ -1,2 +1,1 @@
-#give Surah 21, Al-Anbya to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s21",minecraft:custom_model_data={strings:["s21"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 21, Al-Anbyia`","color":"gray"}']},CustomModelData:11421,HideFlags:32} 1

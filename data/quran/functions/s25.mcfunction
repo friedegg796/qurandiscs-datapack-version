@@ -1,2 +1,1 @@
-#give Surah 25, Al-Furqan to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s25",minecraft:custom_model_data={strings:["s25"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 25, Al-Furqan","color":"gray"}']},CustomModelData:11425,HideFlags:32} 1

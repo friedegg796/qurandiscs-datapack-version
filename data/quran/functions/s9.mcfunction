@@ -1,2 +1,1 @@
-#give Surah 9, At-Tawbah to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s9",minecraft:custom_model_data={strings:["s9"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 9, At-Tawbah","color":"gray"}']},CustomModelData:1149,HideFlags:32} 1

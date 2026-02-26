@@ -1,2 +1,1 @@
-#give Surah 29, Al-'Ankabut to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s29",minecraft:custom_model_data={strings:["s29"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 29, Al-`Ankabut","color":"gray"}']},CustomModelData:11429,HideFlags:32} 1

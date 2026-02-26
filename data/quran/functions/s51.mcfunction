@@ -1,2 +1,1 @@
-#give Surah 51, Adh-Dhariyat to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s51",minecraft:custom_model_data={strings:["s51"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 51, Adh-Dhariyat","color":"gray"}']},CustomModelData:11451,HideFlags:32} 1

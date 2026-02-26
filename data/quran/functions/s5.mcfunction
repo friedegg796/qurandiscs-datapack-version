@@ -1,2 +1,1 @@
-#give Surah 5, Al-Ma'idah to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s5",minecraft:custom_model_data={strings:["s5"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 5, Al-Ma`idah","color":"gray"}']},CustomModelData:1145,HideFlags:32} 1

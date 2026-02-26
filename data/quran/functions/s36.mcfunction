@@ -1,2 +1,1 @@
-#give Surah 36, Ya-Sin to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s36",minecraft:custom_model_data={strings:["s36"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 36, Ya-Sin","color":"gray"}']},CustomModelData:11436,HideFlags:32} 1

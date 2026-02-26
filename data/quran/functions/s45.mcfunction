@@ -1,2 +1,1 @@
-#give Surah 45, Al-Jathiyah to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s45jathiyah44",minecraft:custom_model_data={strings:["s45jathiyah44"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 45, Al-Jathiyah","color":"gray"}']},CustomModelData:11445,HideFlags:32} 1

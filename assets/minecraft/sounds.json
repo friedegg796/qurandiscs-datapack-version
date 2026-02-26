@@ -1,5 +1,5 @@
 {
-  "music_disc.s1": {
+  "quran.s1": {
     "sounds": [
       {
         "name": "records/s1",
@@ -7,7 +7,7 @@
       }
     ]
   },
-  "music_disc.s2": {
+  "quran.s2": {
     "sounds": [
       {
         "name": "records/s2",
@@ -15,7 +15,7 @@
       }
     ]
   },
-  "music_disc.s3": {
+  "quran.s3": {
     "sounds": [
       {
         "name": "records/s3",
@@ -23,7 +23,7 @@
       }
     ]
   },
-  "music_disc.s4": {
+  "quran.s4": {
     "sounds": [
       {
         "name": "records/s4",
@@ -31,7 +31,7 @@
       }
     ]
   },
-  "music_disc.s5": {
+  "quran.s5": {
     "sounds": [
       {
         "name": "records/s5",
@@ -39,7 +39,7 @@
       }
     ]
   },
-  "music_disc.s6": {
+  "quran.s6": {
     "sounds": [
       {
         "name": "records/s6",
@@ -47,7 +47,7 @@
       }
     ]
   },
-  "music_disc.s7": {
+  "quran.s7": {
     "sounds": [
       {
         "name": "records/s7",
@@ -55,7 +55,7 @@
       }
     ]
   },
-  "music_disc.s8anfal7": {
+  "quran.s8": {
     "sounds": [
       {
         "name": "records/s8",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "music_disc.s9": {
+  "quran.s9": {
     "sounds": [
       {
         "name": "records/s9",
@@ -71,7 +71,7 @@
       }
     ]
   },
-  "music_disc.s10": {
+  "quran.s10": {
     "sounds": [
       {
         "name": "records/s10",
@@ -79,7 +79,7 @@
       }
     ]
   },
-  "music_disc.s11": {
+  "quran.s11": {
     "sounds": [
       {
         "name": "records/s11",
@@ -87,7 +87,7 @@
       }
     ]
   },
-  "music_disc.s12": {
+  "quran.s12": {
     "sounds": [
       {
         "name": "records/s12",
@@ -95,7 +95,7 @@
       }
     ]
   },
-  "music_disc.s13": {
+  "quran.s13": {
     "sounds": [
       {
         "name": "records/s13",
@@ -103,7 +103,7 @@
       }
     ]
   },
-  "music_disc.s14": {
+  "quran.s14": {
     "sounds": [
       {
         "name": "records/s14",
@@ -111,7 +111,7 @@
       }
     ]
   },
-  "music_disc.s15": {
+  "quran.s15": {
     "sounds": [
       {
         "name": "records/s15",
@@ -119,7 +119,7 @@
       }
     ]
   },
-  "music_disc.s16": {
+  "quran.s16": {
     "sounds": [
       {
         "name": "records/s16",
@@ -127,7 +127,7 @@
       }
     ]
   },
-  "music_disc.s17": {
+  "quran.s17": {
     "sounds": [
       {
         "name": "records/s17",
@@ -135,7 +135,7 @@
       }
     ]
   },
-  "music_disc.s18": {
+  "quran.s18": {
     "sounds": [
       {
         "name": "records/s18",
@@ -143,7 +143,7 @@
       }
     ]
   },
-  "music_disc.s19": {
+  "quran.s19": {
     "sounds": [
       {
         "name": "records/s19",
@@ -151,7 +151,7 @@
       }
     ]
   },
-  "music_disc.s20": {
+  "quran.s20": {
     "sounds": [
       {
         "name": "records/s20",
@@ -159,7 +159,7 @@
       }
     ]
   },
-  "music_disc.s21": {
+  "quran.s21": {
     "sounds": [
       {
         "name": "records/s21",
@@ -167,7 +167,7 @@
       }
     ]
   },
-  "music_disc.s22": {
+  "quran.s22": {
     "sounds": [
       {
         "name": "records/s22",
@@ -175,7 +175,7 @@
       }
     ]
   },
-  "music_disc.s23": {
+  "quran.s23": {
     "sounds": [
       {
         "name": "records/s23",
@@ -183,7 +183,7 @@
       }
     ]
   },
-  "music_disc.s24": {
+  "quran.s24": {
     "sounds": [
       {
         "name": "records/s24",
@@ -191,7 +191,7 @@
       }
     ]
   },
-  "music_disc.s25": {
+  "quran.s25": {
     "sounds": [
       {
         "name": "records/s25",
@@ -199,7 +199,7 @@
       }
     ]
   },
-  "music_disc.s26": {
+  "quran.s26": {
     "sounds": [
       {
         "name": "records/s26",
@@ -207,7 +207,7 @@
       }
     ]
   },
-  "music_disc.s27": {
+  "quran.s27": {
     "sounds": [
       {
         "name": "records/s27",
@@ -215,7 +215,7 @@
       }
     ]
   },
-  "music_disc.s28": {
+  "quran.s28": {
     "sounds": [
       {
         "name": "records/s28",
@@ -223,7 +223,7 @@
       }
     ]
   },
-  "music_disc.s29": {
+  "quran.s29": {
     "sounds": [
       {
         "name": "records/s29",
@@ -231,7 +231,7 @@
       }
     ]
   },
-  "music_disc.s30": {
+  "quran.s30": {
     "sounds": [
       {
         "name": "records/s30",
@@ -239,7 +239,7 @@
       }
     ]
   },
-  "music_disc.s31": {
+  "quran.s31": {
     "sounds": [
       {
         "name": "records/s31",
@@ -247,7 +247,7 @@
       }
     ]
   },
-  "music_disc.s32": {
+  "quran.s32": {
     "sounds": [
       {
         "name": "records/s32",
@@ -255,7 +255,7 @@
       }
     ]
   },
-  "music_disc.s33": {
+  "quran.s33": {
     "sounds": [
       {
         "name": "records/s33",
@@ -263,7 +263,7 @@
       }
     ]
   },
-  "music_disc.s34": {
+  "quran.s34": {
     "sounds": [
       {
         "name": "records/s34",
@@ -271,7 +271,7 @@
       }
     ]
   },
-  "music_disc.s35": {
+  "quran.s35": {
     "sounds": [
       {
         "name": "records/s35",
@@ -279,7 +279,7 @@
       }
     ]
   },
-  "music_disc.s36": {
+  "quran.s36": {
     "sounds": [
       {
         "name": "records/s36",
@@ -287,7 +287,7 @@
       }
     ]
   },
-  "music_disc.s37": {
+  "quran.s37": {
     "sounds": [
       {
         "name": "records/s37",
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "music_disc.s38": {
+  "quran.s38": {
     "sounds": [
       {
         "name": "records/s38",
@@ -303,7 +303,7 @@
       }
     ]
   },
-  "music_disc.s39": {
+  "quran.s39": {
     "sounds": [
       {
         "name": "records/s39",
@@ -311,7 +311,7 @@
       }
     ]
   },
-  "music_disc.s40": {
+  "quran.s40": {
     "sounds": [
       {
         "name": "records/s40",
@@ -319,7 +319,7 @@
       }
     ]
   },
-  "music_disc.s41": {
+  "quran.s41": {
     "sounds": [
       {
         "name": "records/s41",
@@ -327,7 +327,7 @@
       }
     ]
   },
-  "music_disc.s42": {
+  "quran.s42": {
     "sounds": [
       {
         "name": "records/s42",
@@ -335,7 +335,7 @@
       }
     ]
   },
-  "music_disc.s43": {
+  "quran.s43": {
     "sounds": [
       {
         "name": "records/s43",
@@ -343,7 +343,7 @@
       }
     ]
   },
-  "music_disc.s44": {
+  "quran.s44": {
     "sounds": [
       {
         "name": "records/s44",
@@ -351,7 +351,7 @@
       }
     ]
   },
-  "music_disc.s45": {
+  "quran.s45": {
     "sounds": [
       {
         "name": "records/s45",
@@ -359,7 +359,7 @@
       }
     ]
   },
-  "music_disc.s46": {
+  "quran.s46": {
     "sounds": [
       {
         "name": "records/s46",
@@ -367,7 +367,7 @@
       }
     ]
   },
-  "music_disc.s47": {
+  "quran.s47": {
     "sounds": [
       {
         "name": "records/s47",
@@ -375,7 +375,7 @@
       }
     ]
   },
-  "music_disc.s48": {
+  "quran.s48": {
     "sounds": [
       {
         "name": "records/s48",
@@ -383,7 +383,7 @@
       }
     ]
   },
-  "music_disc.s49": {
+  "quran.s49": {
     "sounds": [
       {
         "name": "records/s49",
@@ -391,7 +391,7 @@
       }
     ]
   },
-  "music_disc.s50": {
+  "quran.s50": {
     "sounds": [
       {
         "name": "records/s50",
@@ -399,7 +399,7 @@
       }
     ]
   },
-  "music_disc.s51": {
+  "quran.s51": {
     "sounds": [
       {
         "name": "records/s51",
@@ -407,7 +407,7 @@
       }
     ]
   },
-  "music_disc.s52": {
+  "quran.s52": {
     "sounds": [
       {
         "name": "records/s52",
@@ -415,7 +415,7 @@
       }
     ]
   },
-  "music_disc.s53": {
+  "quran.s53": {
     "sounds": [
       {
         "name": "records/s53",
@@ -423,7 +423,7 @@
       }
     ]
   },
-  "music_disc.s54": {
+  "quran.s54": {
     "sounds": [
       {
         "name": "records/s54",
@@ -431,7 +431,7 @@
       }
     ]
   },
-  "music_disc.s55": {
+  "quran.s55": {
     "sounds": [
       {
         "name": "records/s55",
@@ -439,7 +439,7 @@
       }
     ]
   },
-  "music_disc.s56": {
+  "quran.s56": {
     "sounds": [
       {
         "name": "records/s56",
@@ -447,7 +447,7 @@
       }
     ]
   },
-  "music_disc.s57": {
+  "quran.s57": {
     "sounds": [
       {
         "name": "records/s57",
@@ -455,7 +455,7 @@
       }
     ]
   },
-  "music_disc.s58": {
+  "quran.s58": {
     "sounds": [
       {
         "name": "records/s58",
@@ -463,7 +463,7 @@
       }
     ]
   },
-  "music_disc.s59": {
+  "quran.s59": {
     "sounds": [
       {
         "name": "records/s59",
@@ -471,7 +471,7 @@
       }
     ]
   },
-  "music_disc.s60": {
+  "quran.s60": {
     "sounds": [
       {
         "name": "records/s60",
@@ -479,7 +479,7 @@
       }
     ]
   },
-  "music_disc.s61": {
+  "quran.s61": {
     "sounds": [
       {
         "name": "records/s61",
@@ -487,7 +487,7 @@
       }
     ]
   },
-  "music_disc.s62": {
+  "quran.s62": {
     "sounds": [
       {
         "name": "records/s62",
@@ -495,7 +495,7 @@
       }
     ]
   },
-  "music_disc.s63": {
+  "quran.s63": {
     "sounds": [
       {
         "name": "records/s63",
@@ -503,7 +503,7 @@
       }
     ]
   },
-  "music_disc.s64": {
+  "quran.s64": {
     "sounds": [
       {
         "name": "records/s64",
@@ -511,7 +511,7 @@
       }
     ]
   },
-  "music_disc.s65": {
+  "quran.s65": {
     "sounds": [
       {
         "name": "records/s65",
@@ -519,7 +519,7 @@
       }
     ]
   },
-  "music_disc.s66": {
+  "quran.s66": {
     "sounds": [
       {
         "name": "records/s66",
@@ -527,7 +527,7 @@
       }
     ]
   },
-  "music_disc.s67": {
+  "quran.s67": {
     "sounds": [
       {
         "name": "records/s67",
@@ -535,7 +535,7 @@
       }
     ]
   },
-  "music_disc.s68": {
+  "quran.s68": {
     "sounds": [
       {
         "name": "records/s68",
@@ -543,7 +543,7 @@
       }
     ]
   },
-  "music_disc.s69": {
+  "quran.s69": {
     "sounds": [
       {
         "name": "records/s69",
@@ -551,7 +551,7 @@
       }
     ]
   },
-  "music_disc.s70": {
+  "quran.s70": {
     "sounds": [
       {
         "name": "records/s70",
@@ -559,7 +559,7 @@
       }
     ]
   },
-  "music_disc.s71": {
+  "quran.s71": {
     "sounds": [
       {
         "name": "records/s71",
@@ -567,7 +567,7 @@
       }
     ]
   },
-  "music_disc.s72": {
+  "quran.s72": {
     "sounds": [
       {
         "name": "records/s72",
@@ -575,7 +575,7 @@
       }
     ]
   },
-  "music_disc.s73": {
+  "quran.s73": {
     "sounds": [
       {
         "name": "records/s73",
@@ -583,7 +583,7 @@
       }
     ]
   },
-  "music_disc.s74": {
+  "quran.s74": {
     "sounds": [
       {
         "name": "records/s74",
@@ -591,7 +591,7 @@
       }
     ]
   },
-  "music_disc.s75": {
+  "quran.s75": {
     "sounds": [
       {
         "name": "records/s75",
@@ -599,7 +599,7 @@
       }
     ]
   },
-  "music_disc.s76": {
+  "quran.s76": {
     "sounds": [
       {
         "name": "records/s76",
@@ -607,7 +607,7 @@
       }
     ]
   },
-  "music_disc.s77": {
+  "quran.s77": {
     "sounds": [
       {
         "name": "records/s77",
@@ -615,7 +615,7 @@
       }
     ]
   },
-  "music_disc.s78": {
+  "quran.s78": {
     "sounds": [
       {
         "name": "records/s78",
@@ -623,7 +623,7 @@
       }
     ]
   },
-  "music_disc.s79": {
+  "quran.s79": {
     "sounds": [
       {
         "name": "records/s79",
@@ -631,7 +631,7 @@
       }
     ]
   },
-  "music_disc.s80": {
+  "quran.s80": {
     "sounds": [
       {
         "name": "records/s80",
@@ -639,7 +639,7 @@
       }
     ]
   },
-  "music_disc.s81": {
+  "quran.s81": {
     "sounds": [
       {
         "name": "records/s81",
@@ -647,7 +647,7 @@
       }
     ]
   },
-  "music_disc.s82": {
+  "quran.s82": {
     "sounds": [
       {
         "name": "records/s82",
@@ -655,7 +655,7 @@
       }
     ]
   },
-  "music_disc.s83": {
+  "quran.s83": {
     "sounds": [
       {
         "name": "records/s83",
@@ -663,7 +663,7 @@
       }
     ]
   },
-  "music_disc.s84": {
+  "quran.s84": {
     "sounds": [
       {
         "name": "records/s84",
@@ -671,7 +671,7 @@
       }
     ]
   },
-  "music_disc.s85": {
+  "quran.s85": {
     "sounds": [
       {
         "name": "records/s85",
@@ -679,7 +679,7 @@
       }
     ]
   },
-  "music_disc.s86": {
+  "quran.s86": {
     "sounds": [
       {
         "name": "records/s86",
@@ -687,7 +687,7 @@
       }
     ]
   },
-  "music_disc.s87": {
+  "quran.s87": {
     "sounds": [
       {
         "name": "records/s87",
@@ -695,7 +695,7 @@
       }
     ]
   },
-  "music_disc.s88": {
+  "quran.s88": {
     "sounds": [
       {
         "name": "records/s88",
@@ -703,7 +703,7 @@
       }
     ]
   },
-  "music_disc.s89": {
+  "quran.s89": {
     "sounds": [
       {
         "name": "records/s89",
@@ -711,7 +711,7 @@
       }
     ]
   },
-  "music_disc.s90": {
+  "quran.s90": {
     "sounds": [
       {
         "name": "records/s90",
@@ -719,7 +719,7 @@
       }
     ]
   },
-  "music_disc.s91": {
+  "quran.s91": {
     "sounds": [
       {
         "name": "records/s91",
@@ -727,7 +727,7 @@
       }
     ]
   },
-  "music_disc.s92": {
+  "quran.s92": {
     "sounds": [
       {
         "name": "records/s92",
@@ -735,7 +735,7 @@
       }
     ]
   },
-  "music_disc.s93": {
+  "quran.s93": {
     "sounds": [
       {
         "name": "records/s93",
@@ -743,7 +743,7 @@
       }
     ]
   },
-  "music_disc.s94": {
+  "quran.s94": {
     "sounds": [
       {
         "name": "records/s94",
@@ -751,7 +751,7 @@
       }
     ]
   },
-  "music_disc.s95": {
+  "quran.s95": {
     "sounds": [
       {
         "name": "records/s95",
@@ -759,7 +759,7 @@
       }
     ]
   },
-  "music_disc.s96": {
+  "quran.s96": {
     "sounds": [
       {
         "name": "records/s96",
@@ -767,7 +767,7 @@
       }
     ]
   },
-  "music_disc.s97": {
+  "quran.s97": {
     "sounds": [
       {
         "name": "records/s97",
@@ -775,7 +775,7 @@
       }
     ]
   },
-  "music_disc.s98": {
+  "quran.s98": {
     "sounds": [
       {
         "name": "records/s98",
@@ -783,7 +783,7 @@
       }
     ]
   },
-  "music_disc.s99": {
+  "quran.s99": {
     "sounds": [
       {
         "name": "records/s99",
@@ -791,7 +791,7 @@
       }
     ]
   },
-  "music_disc.s100": {
+  "quran.s100": {
     "sounds": [
       {
         "name": "records/s100",
@@ -799,7 +799,7 @@
       }
     ]
   },
-  "music_disc.s101": {
+  "quran.s101": {
     "sounds": [
       {
         "name": "records/s101",
@@ -807,7 +807,7 @@
       }
     ]
   },
-  "music_disc.s102": {
+  "quran.s102": {
     "sounds": [
       {
         "name": "records/s102",
@@ -815,7 +815,7 @@
       }
     ]
   },
-  "music_disc.s103": {
+  "quran.s103": {
     "sounds": [
       {
         "name": "records/s103",
@@ -823,7 +823,7 @@
       }
     ]
   },
-  "music_disc.s104": {
+  "quran.s104": {
     "sounds": [
       {
         "name": "records/s104",
@@ -831,7 +831,7 @@
       }
     ]
   },
-  "music_disc.s105": {
+  "quran.s105": {
     "sounds": [
       {
         "name": "records/s105",
@@ -839,7 +839,7 @@
       }
     ]
   },
-  "music_disc.s106": {
+  "quran.s106": {
     "sounds": [
       {
         "name": "records/s106",
@@ -847,7 +847,7 @@
       }
     ]
   },
-  "music_disc.s107": {
+  "quran.s107": {
     "sounds": [
       {
         "name": "records/s107",
@@ -855,7 +855,7 @@
       }
     ]
   },
-  "music_disc.s108": {
+  "quran.s108": {
     "sounds": [
       {
         "name": "records/s108",
@@ -863,7 +863,7 @@
       }
     ]
   },
-  "music_disc.s109": {
+  "quran.s109": {
     "sounds": [
       {
         "name": "records/s109",
@@ -871,7 +871,7 @@
       }
     ]
   },
-  "music_disc.s110": {
+  "quran.s110": {
     "sounds": [
       {
         "name": "records/s110",
@@ -879,7 +879,7 @@
       }
     ]
   },
-  "music_disc.s111": {
+  "quran.s111": {
     "sounds": [
       {
         "name": "records/s111",
@@ -887,7 +887,7 @@
       }
     ]
   },
-  "music_disc.s112": {
+  "quran.s112": {
     "sounds": [
       {
         "name": "records/s112",
@@ -895,7 +895,7 @@
       }
     ]
   },
-  "music_disc.s113": {
+  "quran.s113": {
     "sounds": [
       {
         "name": "records/s113",
@@ -903,7 +903,7 @@
       }
     ]
   },
-  "music_disc.s114": {
+  "quran.s114": {
     "sounds": [
       {
         "name": "records/s114",

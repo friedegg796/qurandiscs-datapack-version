@@ -1,2 +1,1 @@
-#give Surah 48, Al-Fath to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s48",minecraft:custom_model_data={strings:["s48"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 48, Al-Fath","color":"gray"}']},CustomModelData:11448,HideFlags:32} 1

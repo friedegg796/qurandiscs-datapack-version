@@ -1,2 +1,1 @@
-#give Surah 32, As-Sajdah to player
-give @s minecraft:music_disc_13[minecraft:jukebox_playable="quran:s32",minecraft:custom_model_data={strings:["s32"]}]
+give @s music_disc_13{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 32, As-Sajdah","color":"gray"}']},CustomModelData:11432,HideFlags:32} 1
