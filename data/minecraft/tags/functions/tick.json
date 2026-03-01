@@ -1,6 +1,6 @@
 {
     "values": [
-        "quran:detect_play_tick",
-        "quran:detect_stop_tick"
+        "quran:play/detect_play_tick",
+        "quran:play/detect_stop_tick"
     ]
 }
