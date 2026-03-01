@@ -1,0 +1,1 @@
+tellraw @a {"text":"The world seems to be a bit more righteous now!","color":"gold"}
