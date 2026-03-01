@@ -1,1 +1,1 @@
-execute as @s[nbt={SelectedItem:{id:"minecraft:music_disc_13", tag:{CustomModelData:1}}}] run item replace entity @s weapon.mainhand with minecraft:music_disc_13{CustomModelData:1141, HideFlags:32, display:{Lore:["\"\\u00a771\""]}}
+execute as @s[nbt={SelectedItem:{id:"minecraft:music_disc_11", tag:{CustomModelData:1141}}}] run item replace entity @s weapon.mainhand with minecraft:music_disc_11{CustomModelData:1141, HideFlags:32, display:{Lore:["\"\\u00a771\""]}}

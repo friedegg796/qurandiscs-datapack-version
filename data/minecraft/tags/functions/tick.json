@@ -1,6 +1,6 @@
 {
     "values": [
-        "infinite_music_discs_dp:detect_play_tick",
-        "infinite_music_discs_dp:detect_stop_tick"
+        "quran:detect_play_tick",
+        "quran:detect_stop_tick"
     ]
 }
