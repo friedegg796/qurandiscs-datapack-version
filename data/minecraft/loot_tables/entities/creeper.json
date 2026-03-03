@@ -74,7 +74,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1142, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -105,7 +105,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1143, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -136,7 +136,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1144, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -167,7 +167,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1145, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -198,7 +198,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1146, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -229,7 +229,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1147, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -260,7 +260,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1148, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -291,7 +291,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1149, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -322,7 +322,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11410, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -353,7 +353,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11411, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -384,7 +384,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11412, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -415,7 +415,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11413, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -446,7 +446,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11414, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -477,7 +477,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11415, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -508,7 +508,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11416, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -539,7 +539,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11417, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -570,7 +570,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11418, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -601,7 +601,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11419, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -632,7 +632,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11420, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -663,7 +663,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11421, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -694,7 +694,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11422, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -725,7 +725,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11423, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -756,7 +756,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11424, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -787,7 +787,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11425, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -818,7 +818,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11426, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -849,7 +849,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11427, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -880,7 +880,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11428, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -911,7 +911,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11429, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -942,7 +942,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11430, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -973,7 +973,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11431, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1004,7 +1004,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11432, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1035,7 +1035,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11433, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1066,7 +1066,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11434, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1097,7 +1097,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11435, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1128,7 +1128,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11436, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1159,7 +1159,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11437, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1190,7 +1190,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11438, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1221,7 +1221,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11439, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1252,7 +1252,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11440, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1283,7 +1283,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11441, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1314,7 +1314,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11442, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1345,7 +1345,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11443, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1376,7 +1376,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11444, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1406,7 +1406,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11445, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1436,7 +1436,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11446, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1466,7 +1466,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11447, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1496,7 +1496,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11448, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1526,7 +1526,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11449, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1556,7 +1556,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11450, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1586,7 +1586,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11451, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1616,7 +1616,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11452, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1646,7 +1646,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11453, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1676,7 +1676,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11454, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1706,7 +1706,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11455, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1736,7 +1736,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11456, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1766,7 +1766,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11457, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1796,7 +1796,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11458, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1826,7 +1826,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11459, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1856,7 +1856,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11460, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1886,38 +1886,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
-                        }
-                    ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
-                },
-                {
-                    "type": "minecraft:item",
-                    "weight": 1,
-                    "name": "minecraft:music_disc_11",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11461, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1948,7 +1917,38 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11462, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                        }
+                    ]
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:entity_properties",
+                    "predicate": {
+                        "type": "#minecraft:skeletons"
+                    },
+                    "entity": "killer"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:tag",
+                    "weight": 1,
+                    "name": "minecraft:creeper_drop_music_discs",
+                    "expand": true
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:11463, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -1978,7 +1978,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11464, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2008,7 +2008,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11465, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2038,7 +2038,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11466, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2068,7 +2068,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11467, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2098,7 +2098,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11468, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2128,7 +2128,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11469, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2158,7 +2158,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11470, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2188,7 +2188,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11471, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2218,7 +2218,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11472, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2248,7 +2248,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11473, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2278,7 +2278,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11474, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2308,7 +2308,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11475, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2338,7 +2338,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11476, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2368,7 +2368,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11477, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2398,7 +2398,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11478, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2428,7 +2428,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11479, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2458,7 +2458,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11480, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2488,7 +2488,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11481, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2518,7 +2518,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11482, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2548,7 +2548,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11483, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2578,7 +2578,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11484, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2608,7 +2608,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11485, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2638,7 +2638,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11486, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2668,7 +2668,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11487, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2698,7 +2698,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11488, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2728,7 +2728,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11489, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2758,7 +2758,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11490, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2788,7 +2788,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11491, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2818,7 +2818,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11492, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2848,7 +2848,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11493, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2878,7 +2878,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11494, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2908,7 +2908,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11495, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2938,7 +2938,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11496, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2968,7 +2968,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11497, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -2998,7 +2998,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11498, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3028,7 +3028,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11499, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3058,7 +3058,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114100, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3088,7 +3088,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114101, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3118,7 +3118,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114102, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3148,7 +3148,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114103, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3178,7 +3178,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114104, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3208,7 +3208,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114105, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3238,7 +3238,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114106, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3268,7 +3268,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114107, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3298,7 +3298,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114108, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3328,7 +3328,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114109, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3358,7 +3358,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114110, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
@@ -3388,7 +3388,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114111, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
                         }
                     ]
                 }
