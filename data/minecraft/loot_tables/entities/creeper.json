@@ -43,29 +43,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1141, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Mahmoud Khalil Al-Hussary - Surah 1, Al-Fathia\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -74,29 +54,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1142, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1142, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a772\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -105,29 +65,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1143, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1143, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a773\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -136,29 +76,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1144, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1144, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a774\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -167,29 +87,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1145, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1145, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a775\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -198,29 +98,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1146, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1146, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a776\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -229,29 +109,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1147, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1147, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a777\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -260,29 +120,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1148, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1148, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a778\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -291,29 +131,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1149, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:1149, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a779\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -322,29 +142,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11410, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11410, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7710\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -353,29 +153,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11411, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11411, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7711\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -384,29 +164,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11412, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11412, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7712\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -415,29 +175,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11413, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11413, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7713\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -446,29 +186,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11414, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11414, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7714\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -477,29 +197,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11415, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11415, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7715\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -508,29 +208,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11416, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11416, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7716\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -539,29 +219,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11417, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11417, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7717\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -570,29 +230,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11418, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11418, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7718\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -601,29 +241,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11419, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11419, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7719\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -632,29 +252,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11420, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11420, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7720\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -663,29 +263,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11421, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11421, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7721\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -694,29 +274,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11422, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11422, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7722\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -725,29 +285,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11423, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11423, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7723\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -756,29 +296,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11424, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11424, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7724\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -787,29 +307,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11425, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11425, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7725\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -818,29 +318,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11426, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11426, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7726\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -849,29 +329,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11427, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11427, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7727\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -880,29 +340,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11428, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11428, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7728\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -911,29 +351,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11429, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11429, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7729\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -942,29 +362,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11430, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11430, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7730\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -973,29 +373,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11431, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11431, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7731\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1004,29 +384,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11432, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11432, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7732\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1035,29 +395,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11433, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11433, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7733\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1066,29 +406,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11434, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11434, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7734\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1097,29 +417,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11435, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11435, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7735\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1128,29 +428,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11436, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11436, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7736\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1159,29 +439,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11437, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11437, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7737\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1190,29 +450,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11438, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11438, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7738\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1221,29 +461,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11439, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11439, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7739\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1252,29 +472,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11440, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11440, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7740\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1283,29 +483,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11441, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11441, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7741\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1314,29 +494,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11442, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11442, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7742\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1345,29 +505,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11443, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11443, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7743\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-                {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1376,28 +516,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11444, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11444, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7744\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1406,28 +527,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11445, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11445, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7745\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1436,28 +538,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11446, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11446, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7746\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1466,28 +549,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11447, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11447, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7747\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1496,28 +560,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11448, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11448, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7748\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1526,28 +571,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11449, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11449, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7749\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1556,28 +582,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11450, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11450, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7750\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1586,28 +593,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11451, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11451, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7751\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1616,28 +604,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11452, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11452, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7752\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1646,28 +615,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11453, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11453, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7753\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1676,28 +626,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11454, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11454, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7754\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1706,28 +637,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11455, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11455, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7755\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1736,28 +648,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11456, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11456, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7756\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1766,28 +659,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11457, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11457, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7757\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1796,28 +670,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11458, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11458, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7758\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1826,28 +681,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11459, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11459, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7759\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1856,28 +692,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11460, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11460, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7760\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1886,29 +703,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11461, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11461, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7761\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1917,29 +714,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11462, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11462, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7762\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1948,28 +725,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11463, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11463, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7763\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -1978,28 +736,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11464, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11464, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7764\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2008,28 +747,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11465, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11465, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7765\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2038,28 +758,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11466, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11466, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7766\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2068,28 +769,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11467, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11467, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7767\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2098,28 +780,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11468, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11468, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7768\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2128,28 +791,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11469, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11469, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7769\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2158,28 +802,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11470, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11470, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7770\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2188,28 +813,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11471, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11471, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7771\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2218,28 +824,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11472, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11472, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7772\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2248,28 +835,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11473, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11473, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7773\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2278,28 +846,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11474, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11474, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7774\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2308,28 +857,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11475, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11475, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7775\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2338,28 +868,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11476, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11476, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7776\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2368,28 +879,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11477, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11477, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7777\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2398,28 +890,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11478, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11478, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7778\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2428,28 +901,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11479, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11479, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7779\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2458,28 +912,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11480, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11480, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7780\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2488,28 +923,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11481, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11481, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7781\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2518,28 +934,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11482, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11482, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7782\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2548,28 +945,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11483, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11483, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7783\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2578,28 +956,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11484, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11484, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7784\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2608,28 +967,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11485, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11485, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7785\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2638,28 +978,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11486, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11486, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7786\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2668,28 +989,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11487, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11487, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7787\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2698,28 +1000,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11488, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11488, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7788\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2728,28 +1011,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11489, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11489, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7789\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2758,28 +1022,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11490, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11490, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7790\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2788,28 +1033,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11491, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11491, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7791\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2818,28 +1044,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11492, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11492, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7792\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2848,28 +1055,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11493, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11493, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7793\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2878,28 +1066,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11494, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11494, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7794\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2908,28 +1077,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11495, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11495, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7795\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2938,28 +1088,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11496, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11496, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7796\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2968,28 +1099,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11497, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11497, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7797\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -2998,28 +1110,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11498, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11498, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7798\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3028,28 +1121,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:11499, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:11499, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a7799\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3058,28 +1132,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114100, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114100, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77100\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3088,28 +1143,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114101, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114101, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77101\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3118,28 +1154,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114102, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114102, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77102\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3148,28 +1165,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114103, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114103, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77103\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3178,28 +1176,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114104, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114104, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77104\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3208,28 +1187,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114105, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114105, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77105\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3238,28 +1198,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114106, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114106, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77106\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3268,28 +1209,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114107, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114107, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77107\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3298,28 +1220,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114108, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114108, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77108\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3328,28 +1231,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114109, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114109, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77109\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3358,28 +1242,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114110, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114110, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77110\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3388,28 +1253,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114111, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114111, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77111\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3418,28 +1264,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114112, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114112, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77112\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3448,28 +1275,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114113, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114113, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77113\\\"\"]}}"
                         }
                     ]
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:entity_properties",
-                    "predicate": {
-                        "type": "#minecraft:skeletons"
-                    },
-                    "entity": "killer"
-                }
-            ]
-        },{
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
                 },
                 {
                     "type": "minecraft:item",
@@ -3478,7 +1286,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:114114, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a771\\\"\"]}}"
+                            "tag": "{CustomModelData:114114, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77114\\\"\"]}}"
                         }
                     ]
                 }
