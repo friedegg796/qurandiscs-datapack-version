@@ -2,6 +2,87 @@ execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", C
 
 execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:1142, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
 
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:1143, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 3, Ali-`Imran\""]}}}}
+
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 2, Al-Baqarah\""]}}}}
+
+
 give @s music_disc_11{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 3, Ali-`Imran","color":"gray"}']},CustomModelData:1143,HideFlags:32} 1
 
 give @s music_disc_11{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 4, An-Nisa","color":"gray"}']},CustomModelData:1144,HideFlags:32} 1
