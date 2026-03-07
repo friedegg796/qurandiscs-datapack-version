@@ -1,1 +1,1 @@
-give @s music_disc_11{display:{Name:'{"text":"Quran Disc"}',Lore:['{"text":"Mahmoud Khalil Al-Hussary - Surah 104, Al-Humazah","color":"gray"}']},CustomModelData:114104,HideFlags:32} 1
+execute as @s at @s run summon item ~ ~ ~ {Item:{id:"minecraft:music_disc_11", Count:1b, tag:{CustomModelData:114104, HideFlags:32, display:{Lore:["\"\\u00a77Mahmoud Khalil Al-Hussary - Surah 104, Al-Humazah\""]}}}}
