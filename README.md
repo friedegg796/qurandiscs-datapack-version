@@ -9,7 +9,7 @@ Doing the steps correctly, you should do /reload and then do /function to find y
 
 Alternatively, you can do /reload (If you haven't already) and get a skeleton (Or ogre, for those who are cool enough to use the Kafkecraft texturepack) to kill a creeper to get a disc.
 
-Do not however, try to play this on a moving jukebox, I don't think it'll work.
+Do not however, try to play this on a moving jukebox, I don't think it'll work as well.
 
 
 
